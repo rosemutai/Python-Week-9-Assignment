@@ -35,6 +35,7 @@ I extracted data from two endpoints:
 `https://dummyjson.com/carts `
 
 ### Products
+```
 import requests
 import pandas
 
@@ -52,8 +53,10 @@ products_df = pandas.DataFrame(products)
 
 # Save to CSV
 products_df.to_csv('products.csv')
-
+```
 ### Carts
+
+```
 import requests
 import pandas
 
@@ -70,6 +73,13 @@ data_df = pandas.DataFrame(data)
 
 # Save to CSV
 data_df.to_csv('carts.csv')
-
+```
 ## Skills
+- JSON Parsing & Transformation
+- Working with `Pandas` Library to transform Data and export Data  as cSV format
+
+  ## Techstack
+  - Python
+  - Pandas
+  - Requests
 
