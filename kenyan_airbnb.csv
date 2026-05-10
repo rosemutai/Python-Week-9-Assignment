@@ -1,0 +1,1001 @@
+,property_type,price_per_night,rating,amenities,host_name,host_gender,availability,check_in_time,check_out_time,location
+0,House,336.76,2.1,Pool,Berkeley Hoffmann,Male,False,11:53 PM,7:10 AM,Eldoret
+1,Bungalow,496.8,2.5,Pool,Myrtle Thaxton,Female,True,6:19 PM,9:30 PM,Kisumu
+2,House,464.86,1.7,Parking,Cassie Weld,Male,False,2:34 AM,6:52 PM,Eldoret
+3,Bungalow,202.67,2.3,Pool,Kikelia O'Keeffe,Genderfluid,True,5:46 PM,11:21 PM,Mombasa
+4,House,155.73,2.3,Wifi,Crin Rizzini,Female,True,11:19 PM,10:40 AM,Eldoret
+5,Cottage,270.06,2.3,Wifi,Nicholas Chifney,Male,True,8:11 AM,11:58 PM,Nairobi
+6,Apartment,216.27,3.1,Wifi,Teodor Thorald,Male,True,1:01 AM,9:41 AM,Nakuru
+7,Bungalow,258.91,2.8,Parking,Tamas Jonas,Male,True,7:01 AM,10:34 AM,Kisumu
+8,Apartment,330.62,1.2,Parking,Electra Alyutin,Female,False,7:55 PM,3:38 AM,Kisumu
+9,House,322.03,4.5,Breakfast Included,Mandel Jeste,Male,False,5:08 AM,7:44 AM,Eldoret
+10,Cottage,373.47,4.7,Breakfast Included,Duncan Anker,Male,False,12:42 PM,2:29 PM,Eldoret
+11,Cottage,140.09,4.6,Pool,Rowen Fulmen,Male,True,10:22 PM,8:04 AM,Eldoret
+12,House,179.4,4.8,Air Conditioning,Dolly Delatour,Female,False,12:42 AM,10:49 AM,Eldoret
+13,Cottage,79.1,4.8,Breakfast Included,Alessandro Catenot,Male,False,5:41 PM,3:59 AM,Eldoret
+14,Bungalow,57.36,2.6,Breakfast Included,Halsy Beckford,Male,True,7:54 AM,6:39 AM,Eldoret
+15,House,292.01,3.0,Wifi,Letisha Lansberry,Female,True,12:25 PM,1:13 AM,Nairobi
+16,Apartment,266.82,3.1,Pool,Candie Cunniffe,Female,False,2:45 PM,2:24 AM,Kisumu
+17,Cottage,141.22,1.9,Wifi,Cherida Dilleway,Female,False,1:02 AM,7:50 AM,Eldoret
+18,Apartment,285.29,3.3,Parking,Olvan Wade,Male,False,9:31 AM,6:31 AM,Eldoret
+19,Cottage,156.04,3.7,Air Conditioning,Odell Yanukhin,Male,True,2:50 AM,10:06 AM,Nairobi
+20,Bungalow,439.97,2.4,Air Conditioning,Henrieta Van der Velden,Female,False,11:43 AM,9:00 AM,Kisumu
+21,Cottage,95.97,3.3,Breakfast Included,Davidde Gooda,Male,False,9:47 PM,1:28 AM,Kisumu
+22,House,405.54,3.4,Pool,Micki Antonomoli,Female,False,9:33 AM,6:59 PM,Nairobi
+23,Villa,229.69,2.5,Pool,Calv Jentin,Male,False,4:21 AM,1:59 AM,Mombasa
+24,Apartment,194.93,3.8,Parking,Bevvy Reston,Female,False,11:25 PM,12:51 AM,Nakuru
+25,House,202.65,4.0,Parking,Elia Siege,Male,True,6:44 PM,11:42 PM,Eldoret
+26,Apartment,484.8,4.2,Breakfast Included,Barbabra Kuhl,Female,False,5:41 PM,6:13 PM,Kisumu
+27,Bungalow,130.22,4.3,Pool,Ellswerth Ludl,Male,False,7:59 PM,3:03 PM,Eldoret
+28,Bungalow,140.13,4.5,Air Conditioning,Kirsteni Mc Grath,Female,False,5:56 AM,5:26 AM,Kisumu
+29,Apartment,324.7,1.9,Parking,Tait Rowe,Male,True,3:54 PM,2:29 PM,Nairobi
+30,Cottage,400.32,3.1,Parking,Dannie Overbury,Male,True,12:44 PM,3:22 AM,Nairobi
+31,Bungalow,426.92,3.9,Wifi,Cinnamon Bodemeaid,Female,True,9:31 AM,9:28 PM,Nakuru
+32,Villa,188.48,2.8,Breakfast Included,Towny Chadbourne,Male,False,8:14 PM,1:23 PM,Mombasa
+33,Villa,96.4,4.2,Wifi,Levy Couvert,Male,True,11:33 PM,8:48 AM,Mombasa
+34,Apartment,250.67,2.9,Wifi,Teodora Buesden,Female,True,10:53 AM,1:51 PM,Nairobi
+35,House,460.15,4.6,Parking,Bethanne Bartolijn,Female,False,2:35 AM,11:06 PM,Kisumu
+36,House,388.05,4.8,Breakfast Included,Davine Tomashov,Female,False,3:31 AM,5:18 AM,Nakuru
+37,Apartment,389.89,3.6,Parking,Vi Marfield,Female,True,7:57 PM,9:38 PM,Mombasa
+38,House,226.86,3.3,Breakfast Included,Cathi Killick,Female,False,7:50 PM,3:19 AM,Mombasa
+39,House,208.46,1.4,Breakfast Included,Elijah Pighills,Male,True,5:14 AM,12:15 AM,Mombasa
+40,Apartment,222.94,2.5,Parking,Mackenzie Milmith,Male,False,8:40 AM,6:10 PM,Kisumu
+41,Apartment,295.19,2.6,Pool,Britt Flewett,Male,True,4:33 PM,6:43 PM,Nairobi
+42,Cottage,213.79,2.7,Air Conditioning,Dalston Polye,Male,False,5:17 PM,12:45 AM,Kisumu
+43,Apartment,428.46,4.0,Breakfast Included,Evey Mundell,Female,False,1:14 AM,3:54 AM,Eldoret
+44,House,423.95,4.5,Wifi,Humfrid Wonter,Male,True,4:28 PM,4:42 AM,Mombasa
+45,Cottage,380.69,1.6,Air Conditioning,Barbabra Dragoe,Female,False,10:54 AM,1:40 PM,Kisumu
+46,Villa,394.84,4.1,Breakfast Included,Andres Gosse,Male,True,4:31 PM,1:12 AM,Nairobi
+47,Bungalow,85.7,4.5,Wifi,Stefa Heeley,Female,False,8:36 AM,8:05 PM,Nairobi
+48,Cottage,120.5,5.0,Air Conditioning,Marco Verey,Male,False,4:05 PM,2:24 PM,Eldoret
+49,Bungalow,463.21,1.7,Wifi,Gisella Mitchenson,Female,False,5:55 PM,11:10 AM,Kisumu
+50,Villa,121.24,1.8,Parking,Thor Livings,Male,True,10:38 PM,8:37 PM,Mombasa
+51,Cottage,375.97,2.6,Parking,Tiertza Balthasar,Female,False,1:08 PM,1:47 AM,Nakuru
+52,House,395.99,4.7,Parking,Joelie Yetts,Female,False,12:11 AM,6:22 PM,Mombasa
+53,Apartment,255.88,1.9,Wifi,Vanny Bouch,Female,True,4:22 PM,10:30 AM,Mombasa
+54,House,229.91,2.6,Breakfast Included,Minette Cubuzzi,Female,True,9:25 PM,12:37 AM,Nakuru
+55,House,101.52,1.8,Air Conditioning,Lynea Trevaskiss,Female,False,8:22 AM,6:25 AM,Kisumu
+56,House,359.14,4.7,Wifi,Flossy Lawrenz,Female,False,1:46 AM,8:03 PM,Nairobi
+57,House,224.0,4.7,Wifi,Cordi Torpie,Female,True,1:38 AM,1:26 PM,Eldoret
+58,Apartment,177.91,1.9,Parking,Dolph Collomosse,Male,True,3:55 AM,1:01 AM,Mombasa
+59,Apartment,304.22,3.2,Parking,Diann Wind,Female,False,1:59 PM,4:15 AM,Kisumu
+60,Apartment,474.67,1.2,Pool,Gearalt Blyde,Male,True,11:54 PM,5:20 AM,Nairobi
+61,House,197.26,1.3,Pool,Stern Tidman,Genderqueer,True,8:25 PM,4:09 AM,Nairobi
+62,Bungalow,357.84,1.7,Parking,Matias Niblo,Male,True,4:42 AM,7:51 AM,Mombasa
+63,House,395.73,1.5,Air Conditioning,Darwin Amiss,Male,True,8:20 AM,7:14 AM,Mombasa
+64,Cottage,360.73,2.6,Pool,Andree Manass,Female,True,9:38 PM,4:58 AM,Mombasa
+65,Bungalow,359.17,3.2,Breakfast Included,Josefina Weekes,Female,True,5:35 PM,7:05 PM,Kisumu
+66,Apartment,330.16,1.1,Pool,Andee Emmins,Female,False,8:48 PM,9:16 PM,Nairobi
+67,Apartment,160.69,4.9,Breakfast Included,Sarah Teacy,Female,True,4:15 AM,6:11 PM,Nairobi
+68,Bungalow,490.43,4.0,Parking,Kristopher Hitcham,Male,True,12:44 AM,8:14 AM,Mombasa
+69,Bungalow,490.49,2.5,Parking,Fidole Courcey,Male,True,10:53 AM,3:28 AM,Mombasa
+70,Villa,50.34,2.0,Pool,Sarette Buyers,Female,True,7:43 AM,7:06 AM,Mombasa
+71,Apartment,287.32,3.0,Breakfast Included,Joyann Eilert,Female,False,1:28 AM,8:39 AM,Nakuru
+72,Apartment,482.55,2.5,Wifi,Tera Dulton,Female,False,7:56 PM,2:03 AM,Eldoret
+73,Apartment,54.26,3.4,Pool,Sibilla O'Quin,Genderqueer,True,6:15 AM,7:53 PM,Kisumu
+74,House,238.48,2.3,Pool,Vlad MacGorley,Male,True,6:55 AM,1:40 PM,Eldoret
+75,Villa,359.29,4.8,Breakfast Included,Taddeo Woolstenholmes,Male,False,8:55 AM,5:17 AM,Eldoret
+76,Cottage,70.05,4.3,Wifi,Sterling Duffan,Male,False,12:53 AM,10:54 PM,Nakuru
+77,House,74.81,2.6,Pool,Nikolos Tommei,Male,True,5:40 PM,7:33 AM,Nairobi
+78,Apartment,122.58,3.1,Pool,Moss Bullingham,Male,False,1:22 AM,9:57 PM,Nakuru
+79,Apartment,321.84,3.1,Air Conditioning,Hazlett Brewerton,Male,True,5:49 PM,2:19 AM,Kisumu
+80,Villa,176.11,3.1,Parking,Reinhold Kaplin,Male,False,7:36 PM,11:40 PM,Kisumu
+81,Cottage,127.71,1.7,Breakfast Included,Barb Bootherstone,Polygender,False,5:27 PM,7:47 AM,Eldoret
+82,Apartment,86.95,2.5,Air Conditioning,Kennith Rudland,Male,True,2:03 PM,6:34 PM,Kisumu
+83,Bungalow,432.43,2.6,Breakfast Included,Melinde Mixworthy,Female,False,4:23 PM,4:10 AM,Nakuru
+84,Cottage,318.59,1.7,Air Conditioning,Jervis Shekle,Male,False,2:42 AM,6:32 PM,Kisumu
+85,Apartment,215.37,4.8,Breakfast Included,Sherm Worham,Male,False,2:30 PM,2:28 PM,Eldoret
+86,Villa,311.67,3.2,Wifi,Barbee Gyorffy,Female,True,1:19 PM,8:48 PM,Eldoret
+87,Apartment,336.98,1.1,Pool,Merwyn Manske,Male,True,6:37 PM,6:59 PM,Kisumu
+88,Apartment,143.09,1.2,Breakfast Included,Robbyn Hitschke,Female,False,12:22 AM,7:13 PM,Mombasa
+89,House,132.8,4.7,Breakfast Included,Sherlocke Rivitt,Male,False,12:47 AM,10:24 AM,Nairobi
+90,Apartment,422.47,4.0,Breakfast Included,Saree Mummery,Female,False,1:36 PM,4:13 AM,Kisumu
+91,Bungalow,446.45,4.3,Breakfast Included,Miquela Tinman,Non-binary,True,9:01 PM,9:05 PM,Mombasa
+92,Apartment,229.23,4.8,Breakfast Included,Darren Daniely,Male,True,1:15 PM,9:47 AM,Eldoret
+93,House,299.98,2.8,Breakfast Included,Naoma Belden,Bigender,True,3:43 PM,9:48 AM,Eldoret
+94,Apartment,147.23,1.7,Breakfast Included,Shantee Caveney,Female,False,8:58 PM,10:44 AM,Nairobi
+95,Apartment,96.09,3.3,Parking,Efrem Sillick,Male,True,9:44 AM,6:35 AM,Nairobi
+96,Apartment,131.1,3.5,Pool,Kristina Bowra,Female,False,6:41 AM,2:19 PM,Kisumu
+97,Cottage,68.17,3.9,Pool,Trish Yarrall,Female,True,4:56 AM,7:37 PM,Kisumu
+98,Apartment,176.86,2.9,Breakfast Included,Ingaberg Houston,Female,False,10:32 PM,12:32 AM,Mombasa
+99,Apartment,280.71,3.6,Air Conditioning,Sibelle Meadway,Female,False,6:24 AM,1:01 PM,Nakuru
+100,Villa,396.1,1.1,Air Conditioning,Bobbee Jonuzi,Female,False,5:30 PM,5:54 AM,Mombasa
+101,Apartment,389.25,2.6,Air Conditioning,Baron Tubby,Male,True,8:16 PM,7:20 PM,Eldoret
+102,Bungalow,449.56,3.2,Parking,Parke Gratton,Male,False,5:47 PM,12:29 PM,Kisumu
+103,House,316.58,4.5,Air Conditioning,Terza Ions,Female,True,5:32 PM,6:04 AM,Nairobi
+104,Bungalow,395.5,1.6,Air Conditioning,Annmarie Kulvear,Female,False,9:44 AM,3:23 PM,Nairobi
+105,House,452.19,4.2,Air Conditioning,Charlena Camelli,Female,False,6:07 PM,2:54 AM,Nairobi
+106,Cottage,413.46,1.8,Parking,Mannie Karlsen,Male,True,2:01 AM,5:23 PM,Eldoret
+107,Villa,496.62,2.2,Parking,Gertrud Boorn,Female,True,4:24 PM,10:57 PM,Nakuru
+108,House,297.48,3.2,Air Conditioning,Pavla Copins,Agender,False,10:16 PM,5:25 PM,Eldoret
+109,Cottage,401.28,4.2,Parking,Bernardo Winridge,Male,False,2:32 PM,8:10 AM,Nakuru
+110,Cottage,168.28,3.0,Pool,Sargent Ferrieroi,Non-binary,True,9:29 AM,8:18 AM,Kisumu
+111,Villa,114.89,2.5,Parking,Juliann Droogan,Female,False,3:47 PM,11:07 PM,Kisumu
+112,Bungalow,72.36,2.3,Parking,Berne Eliez,Male,True,11:23 PM,10:42 AM,Kisumu
+113,House,355.56,2.3,Wifi,Dulcea Hulle,Female,False,1:26 PM,10:47 AM,Mombasa
+114,Apartment,137.03,3.7,Pool,Isidore Scough,Male,True,4:51 PM,3:59 AM,Eldoret
+115,House,91.43,3.8,Pool,Olia Elwin,Female,True,3:28 PM,1:01 PM,Nakuru
+116,Apartment,364.74,3.8,Pool,Cy Demanche,Male,False,12:30 AM,8:23 AM,Kisumu
+117,Cottage,210.28,3.7,Parking,Tam Gurery,Male,False,8:37 PM,3:56 PM,Eldoret
+118,Bungalow,184.47,3.1,Parking,Adela McElrath,Female,False,12:15 AM,10:32 PM,Nakuru
+119,Cottage,357.6,3.7,Breakfast Included,Web Ronisch,Male,True,6:02 AM,11:01 PM,Eldoret
+120,Villa,157.99,4.2,Wifi,Debora Nash,Female,True,1:18 AM,9:08 PM,Kisumu
+121,Cottage,315.22,2.4,Air Conditioning,Jeremie Avraam,Male,True,7:17 PM,7:11 AM,Eldoret
+122,Cottage,307.0,4.4,Breakfast Included,Worden Skates,Male,True,9:29 AM,11:11 PM,Nairobi
+123,Cottage,334.77,4.0,Wifi,Minnnie Brantzen,Female,True,8:12 AM,3:37 PM,Eldoret
+124,Cottage,170.9,1.7,Air Conditioning,Kassey Ketley,Female,False,9:39 AM,12:44 PM,Eldoret
+125,Villa,390.53,2.3,Parking,Dilly O'Regan,Male,False,9:22 PM,3:36 PM,Nakuru
+126,Apartment,73.72,3.9,Pool,Stanwood Larvin,Male,False,9:11 AM,7:22 AM,Eldoret
+127,House,71.81,4.7,Breakfast Included,Audrey Spurdens,Female,False,11:08 AM,1:52 PM,Eldoret
+128,Apartment,466.55,2.1,Pool,Karina Butting,Polygender,True,2:55 PM,12:56 PM,Kisumu
+129,House,431.77,3.5,Air Conditioning,Orazio Fawdrie,Male,False,11:58 AM,2:36 AM,Eldoret
+130,Villa,398.87,4.5,Wifi,Northrop Vlasyuk,Male,False,1:57 PM,3:22 AM,Mombasa
+131,Bungalow,59.62,3.9,Wifi,Kaylyn Stryde,Female,True,10:06 PM,3:58 PM,Nairobi
+132,Bungalow,429.92,1.2,Breakfast Included,Grove Balshen,Male,False,4:40 PM,6:32 PM,Nakuru
+133,Cottage,329.35,1.7,Breakfast Included,Bridget Testin,Female,True,1:34 AM,6:50 AM,Eldoret
+134,Apartment,61.06,4.9,Wifi,Alyse Nerval,Female,False,12:49 AM,1:29 PM,Nairobi
+135,Bungalow,276.08,4.3,Wifi,Stevena Assur,Female,True,5:45 AM,9:52 PM,Eldoret
+136,Cottage,80.8,2.8,Wifi,Tucky Gurling,Male,True,1:42 AM,11:43 AM,Nairobi
+137,Villa,148.61,4.9,Wifi,Ring Piotrkowski,Male,False,12:41 PM,12:22 AM,Kisumu
+138,Villa,162.77,3.7,Parking,Scott Shattock,Male,False,12:09 AM,10:48 PM,Eldoret
+139,Bungalow,484.57,4.8,Pool,Essy Downgate,Female,False,1:36 AM,8:44 PM,Nairobi
+140,Apartment,87.18,4.0,Wifi,Morgan Carty,Male,False,11:55 AM,9:09 AM,Mombasa
+141,Apartment,333.6,1.1,Breakfast Included,Gina Shillitto,Female,False,9:23 PM,2:16 PM,Mombasa
+142,Apartment,223.85,1.1,Air Conditioning,Currie Hadingham,Male,True,9:00 AM,8:02 AM,Nairobi
+143,Villa,177.21,3.7,Pool,Ashley Jeff,Male,True,8:07 PM,12:39 PM,Eldoret
+144,Bungalow,224.45,4.0,Wifi,Hedwiga Collen,Female,False,6:22 PM,5:37 AM,Nairobi
+145,Villa,425.11,2.6,Pool,Georgette Balsdon,Female,True,8:49 AM,12:15 AM,Nakuru
+146,House,243.47,1.4,Breakfast Included,Nanice Barnwall,Female,False,12:23 AM,2:53 PM,Eldoret
+147,House,232.55,3.4,Air Conditioning,Megan Ubach,Polygender,True,11:30 AM,12:59 AM,Eldoret
+148,Cottage,77.98,3.4,Parking,Veriee Matelyunas,Female,True,3:04 PM,11:14 AM,Nakuru
+149,Bungalow,100.36,2.3,Wifi,Diannne Rawles,Female,True,4:37 PM,10:09 AM,Eldoret
+150,Apartment,244.7,1.1,Pool,Quinton Hallum,Male,True,9:23 AM,9:39 PM,Nairobi
+151,Cottage,229.37,2.1,Pool,Fitz Frail,Male,True,12:04 AM,7:07 AM,Eldoret
+152,Cottage,405.26,1.1,Parking,Gannon Deedes,Male,True,11:32 PM,10:30 AM,Kisumu
+153,Bungalow,312.97,2.3,Wifi,Leon Heckle,Male,False,1:13 PM,1:38 AM,Kisumu
+154,House,378.6,4.8,Pool,Salmon Dempsey,Male,True,3:27 AM,1:45 AM,Kisumu
+155,House,113.83,1.8,Pool,Zilvia Emmer,Female,True,6:13 PM,11:13 PM,Mombasa
+156,Apartment,429.51,3.5,Wifi,Merci Tohill,Agender,False,4:44 AM,8:05 AM,Kisumu
+157,Apartment,339.76,4.7,Air Conditioning,Rosina Karleman,Bigender,False,1:41 PM,10:55 AM,Nairobi
+158,House,358.27,2.8,Parking,Charleen Scripture,Female,False,1:24 AM,6:00 PM,Mombasa
+159,Cottage,325.94,3.9,Pool,Brett Southcoat,Female,False,12:47 PM,8:15 PM,Mombasa
+160,Cottage,368.52,4.4,Air Conditioning,Hew Coulthard,Male,True,4:26 AM,9:40 AM,Kisumu
+161,Bungalow,269.93,4.5,Parking,Justino Spileman,Polygender,False,5:43 AM,9:57 PM,Kisumu
+162,Villa,197.81,2.2,Pool,Sisile Common,Female,False,10:57 AM,6:29 AM,Eldoret
+163,Villa,208.34,2.6,Wifi,Bran Monaghan,Male,False,3:06 AM,1:12 AM,Nairobi
+164,Apartment,281.15,3.5,Pool,Nicoline Kindall,Female,False,1:48 AM,12:23 AM,Mombasa
+165,Apartment,78.65,3.1,Parking,Noell Rowen,Female,False,6:06 PM,4:17 PM,Kisumu
+166,House,496.48,2.6,Breakfast Included,Silvio Rollinshaw,Male,True,5:17 PM,9:28 AM,Eldoret
+167,Cottage,440.95,3.5,Air Conditioning,Burl Tourot,Male,True,2:37 PM,4:28 PM,Kisumu
+168,Cottage,403.09,3.3,Pool,Ringo Hulcoop,Male,False,5:40 AM,1:54 PM,Kisumu
+169,Bungalow,162.59,3.7,Parking,Orsola Joddins,Female,False,11:49 AM,1:35 AM,Nairobi
+170,House,437.14,4.7,Breakfast Included,Demetria Anlay,Female,False,6:39 PM,11:11 AM,Nairobi
+171,Bungalow,429.94,2.3,Parking,Lind Stambridge,Female,False,7:27 PM,4:38 AM,Mombasa
+172,Villa,346.01,4.6,Breakfast Included,Nanci Shalliker,Female,False,10:14 AM,4:03 AM,Kisumu
+173,House,128.96,4.3,Pool,Jimmie Hubeaux,Male,True,11:44 PM,8:36 PM,Mombasa
+174,Apartment,147.59,1.8,Pool,Graehme Blucher,Male,False,7:26 AM,7:18 PM,Nairobi
+175,House,283.99,4.4,Air Conditioning,Kaye Nockells,Female,True,12:04 PM,5:36 AM,Nakuru
+176,House,426.01,3.0,Wifi,Guthrey Jessope,Male,True,10:00 AM,12:05 PM,Nairobi
+177,Bungalow,102.84,3.7,Parking,Lukas Sheivels,Male,False,4:56 AM,8:23 AM,Eldoret
+178,Bungalow,362.27,1.6,Wifi,Ernesta Buncombe,Female,True,6:29 PM,2:19 AM,Kisumu
+179,Bungalow,221.77,1.5,Air Conditioning,Mehetabel Rex,Female,True,5:56 PM,10:30 PM,Nakuru
+180,Cottage,227.98,4.9,Breakfast Included,Mireille Ferriday,Female,False,2:24 PM,7:28 AM,Nairobi
+181,Bungalow,249.82,2.8,Parking,Alf Hofner,Male,False,3:50 PM,10:51 PM,Eldoret
+182,Villa,228.29,3.6,Wifi,Donavon Bigmore,Male,False,5:50 PM,12:25 PM,Eldoret
+183,Cottage,424.14,3.4,Wifi,Marlow Tomkins,Male,False,11:03 AM,6:42 PM,Eldoret
+184,Cottage,303.72,4.7,Breakfast Included,Agneta Hemphrey,Female,False,5:54 AM,3:43 AM,Mombasa
+185,House,114.31,1.7,Air Conditioning,Andra Ravenhill,Female,True,3:07 PM,3:32 AM,Nakuru
+186,Apartment,57.24,3.4,Pool,Liza Vinnicombe,Female,True,4:03 AM,4:58 AM,Eldoret
+187,Villa,423.2,2.7,Parking,Martino Serot,Male,False,3:49 AM,1:37 AM,Kisumu
+188,Cottage,328.19,4.8,Breakfast Included,Talbert Sillars,Agender,False,9:49 AM,9:15 PM,Eldoret
+189,Villa,260.16,3.8,Air Conditioning,Gris Llewelyn,Male,False,1:29 AM,1:22 AM,Nakuru
+190,Bungalow,148.18,3.9,Wifi,Borden McWhin,Polygender,False,4:31 PM,4:15 PM,Nairobi
+191,Apartment,395.96,1.3,Air Conditioning,Agosto Lorenzetto,Agender,False,11:06 AM,10:55 PM,Nakuru
+192,Villa,150.44,1.4,Wifi,Culley Delamere,Male,False,9:20 AM,4:06 AM,Eldoret
+193,House,272.1,3.7,Pool,Fremont Towll,Male,False,9:11 PM,9:56 PM,Mombasa
+194,House,303.06,3.3,Pool,Brooke Stebbing,Non-binary,True,3:49 PM,9:46 PM,Mombasa
+195,Apartment,106.3,4.6,Parking,Manolo William,Male,True,1:27 AM,4:37 PM,Mombasa
+196,Apartment,281.66,2.8,Pool,Emiline De Bruin,Female,True,5:27 AM,11:04 PM,Kisumu
+197,Bungalow,104.99,4.8,Breakfast Included,Stinky Rohfsen,Male,False,7:08 AM,6:47 AM,Nairobi
+198,Apartment,328.68,1.5,Pool,Alysa Borthram,Female,False,7:32 AM,4:26 PM,Kisumu
+199,Apartment,81.07,3.6,Pool,Neysa Leeburne,Female,True,3:13 AM,2:59 AM,Nairobi
+200,Villa,378.44,2.2,Breakfast Included,Benedetto Godley,Male,True,9:29 PM,5:55 AM,Nairobi
+201,House,229.18,3.5,Pool,Oswell Dinley,Male,True,1:29 AM,1:50 PM,Eldoret
+202,Cottage,233.44,3.4,Breakfast Included,Tobiah Philpin,Male,False,10:33 PM,4:33 AM,Mombasa
+203,Villa,114.79,3.6,Pool,Doreen McUre,Female,True,4:09 PM,4:19 PM,Nairobi
+204,Bungalow,180.04,3.6,Breakfast Included,Filberte Wrankmore,Male,True,2:24 PM,2:02 PM,Kisumu
+205,Bungalow,293.71,4.8,Air Conditioning,Agatha Steffan,Female,False,10:42 AM,9:02 AM,Mombasa
+206,Apartment,138.92,2.8,Breakfast Included,Brig Birkin,Male,False,2:47 AM,3:07 AM,Nairobi
+207,House,181.24,4.8,Wifi,Celisse Feckey,Female,True,4:11 AM,11:17 PM,Nakuru
+208,Bungalow,377.94,4.1,Pool,Thorny Edwick,Non-binary,True,4:49 AM,9:49 PM,Mombasa
+209,Apartment,292.52,1.0,Air Conditioning,Henrik Carlos,Male,True,12:15 AM,9:53 PM,Kisumu
+210,Bungalow,264.47,4.0,Breakfast Included,Minna Baddeley,Female,True,10:54 AM,9:11 AM,Mombasa
+211,Apartment,197.25,1.7,Pool,Fax Kinsey,Male,False,10:11 AM,10:14 AM,Nairobi
+212,Apartment,191.85,3.2,Wifi,Vonni Cocking,Female,False,10:47 PM,3:39 AM,Eldoret
+213,Villa,272.07,2.9,Wifi,Mord Pounds,Male,False,10:04 PM,3:07 PM,Nairobi
+214,Bungalow,370.67,1.6,Pool,Ros Dayley,Female,True,10:47 PM,6:14 PM,Mombasa
+215,House,229.56,2.1,Wifi,Kellyann Martugin,Female,False,12:37 PM,5:13 AM,Eldoret
+216,Villa,424.92,5.0,Air Conditioning,Tomkin Littell,Male,False,3:06 PM,12:44 AM,Kisumu
+217,Bungalow,473.78,2.1,Parking,Harrietta Adrian,Female,True,2:23 PM,12:46 PM,Kisumu
+218,House,354.37,2.5,Air Conditioning,Fredericka Rawcliffe,Female,False,1:17 PM,1:01 PM,Kisumu
+219,House,158.18,4.2,Breakfast Included,Bradley Einchcombe,Male,False,4:21 PM,6:58 PM,Mombasa
+220,Bungalow,173.59,2.4,Breakfast Included,Merralee Rubbens,Genderfluid,True,12:58 PM,11:09 PM,Nairobi
+221,Cottage,452.06,3.9,Pool,Franciska Headon,Female,False,7:52 AM,4:55 PM,Mombasa
+222,Villa,396.87,2.1,Air Conditioning,Gusty Tarborn,Female,False,3:44 AM,1:47 AM,Kisumu
+223,Bungalow,498.31,2.1,Breakfast Included,Zacharie Dellit,Male,False,4:57 PM,4:28 AM,Nakuru
+224,Bungalow,310.71,1.5,Parking,Danny Isakov,Female,False,1:22 PM,9:34 AM,Eldoret
+225,House,129.43,1.8,Breakfast Included,Lily Creaven,Female,False,12:13 PM,9:01 AM,Nakuru
+226,Villa,353.16,3.8,Breakfast Included,Woodie Mannix,Male,False,10:32 AM,2:01 AM,Eldoret
+227,Cottage,120.07,4.1,Wifi,Matelda Jakubiak,Female,False,12:46 AM,4:39 AM,Nakuru
+228,Cottage,327.83,2.7,Parking,Pennie Whiscard,Male,False,8:44 PM,12:23 AM,Nakuru
+229,Apartment,337.29,3.8,Wifi,Dominik Boar,Male,True,7:12 AM,7:14 PM,Kisumu
+230,Apartment,132.95,3.8,Wifi,Craggy Dieton,Male,False,2:50 AM,8:05 PM,Nakuru
+231,Bungalow,466.99,5.0,Parking,Errick Griffitt,Male,True,6:08 PM,10:42 AM,Nairobi
+232,Bungalow,109.86,2.6,Air Conditioning,Maren Maharry,Female,True,12:54 AM,11:39 PM,Eldoret
+233,Bungalow,64.03,3.3,Wifi,Adham Fantini,Male,False,3:01 AM,3:50 PM,Eldoret
+234,Cottage,388.71,1.5,Parking,Orlan Hove,Male,False,11:48 AM,3:48 AM,Mombasa
+235,House,396.72,2.1,Breakfast Included,Pearle Mettericke,Female,True,8:28 PM,8:59 AM,Eldoret
+236,House,70.48,4.4,Air Conditioning,Tyne Handy,Female,True,12:51 PM,2:10 AM,Mombasa
+237,Villa,249.5,1.1,Parking,Drake Danter,Male,False,5:18 PM,2:39 AM,Nakuru
+238,Apartment,121.22,4.4,Parking,Mel Graine,Male,False,6:53 AM,9:03 AM,Kisumu
+239,House,57.35,1.3,Pool,Winston Oswick,Male,False,5:45 AM,7:38 PM,Mombasa
+240,Apartment,305.46,2.0,Breakfast Included,Wake Sawart,Male,True,3:08 AM,2:42 PM,Nakuru
+241,Cottage,375.06,4.0,Wifi,Elna Ennion,Female,True,10:07 AM,1:12 AM,Eldoret
+242,Villa,182.05,3.8,Breakfast Included,Camellia Ahmad,Female,True,3:53 PM,11:17 AM,Eldoret
+243,Villa,327.68,3.9,Wifi,Olivero Livesay,Male,False,1:00 AM,7:37 AM,Nakuru
+244,Cottage,154.98,4.2,Pool,Shayla Zanolli,Female,False,2:12 PM,3:55 AM,Mombasa
+245,Villa,480.12,3.0,Pool,Ninnette Thirkettle,Female,True,4:37 AM,1:05 PM,Nairobi
+246,Apartment,429.78,1.7,Air Conditioning,Brooke Campanelle,Female,False,6:52 PM,12:43 PM,Nairobi
+247,Bungalow,140.04,1.4,Air Conditioning,Amargo Fenelow,Female,False,2:05 PM,2:22 AM,Nakuru
+248,Apartment,436.91,4.9,Parking,Cyrillus McKeachie,Male,False,12:19 AM,3:50 AM,Nairobi
+249,Apartment,50.09,4.4,Parking,Greer Bamsey,Female,True,2:53 AM,2:13 PM,Mombasa
+250,Bungalow,411.81,4.2,Breakfast Included,Dennison Geffcock,Genderqueer,True,1:06 AM,7:10 AM,Nakuru
+251,Villa,105.32,4.4,Wifi,Thaddeus Jakel,Male,True,2:24 PM,11:30 PM,Mombasa
+252,Cottage,103.21,2.4,Wifi,Trina Yakobovitz,Female,True,8:08 PM,8:50 PM,Kisumu
+253,Bungalow,350.23,3.6,Wifi,Jorey Catt,Female,True,1:13 PM,12:02 AM,Kisumu
+254,Cottage,485.88,2.2,Air Conditioning,Martica Jordi,Female,True,4:32 AM,12:32 PM,Nakuru
+255,Cottage,51.4,5.0,Parking,Myrwyn Dosdale,Male,False,8:43 AM,10:53 AM,Nakuru
+256,Villa,495.08,1.1,Air Conditioning,Andros Antoniutti,Male,False,1:45 AM,10:35 PM,Mombasa
+257,Bungalow,404.17,2.1,Pool,Carline Arbon,Female,True,5:06 PM,12:00 AM,Mombasa
+258,Bungalow,412.17,1.4,Pool,Michel Dodgshun,Female,True,2:59 AM,1:35 AM,Eldoret
+259,Cottage,482.77,4.0,Wifi,Wallie Binnion,Male,False,2:31 PM,6:44 AM,Nairobi
+260,Bungalow,286.12,3.0,Pool,Gretel Sydes,Female,True,4:11 AM,8:34 AM,Eldoret
+261,Villa,103.61,2.4,Air Conditioning,Nikola Szymanzyk,Agender,True,10:11 PM,6:06 AM,Mombasa
+262,House,475.68,2.4,Parking,Jacquenette Berrie,Female,True,6:12 AM,10:28 AM,Mombasa
+263,Apartment,306.26,4.9,Wifi,Arlene Edgar,Female,False,10:31 AM,3:13 PM,Mombasa
+264,Apartment,106.06,2.6,Wifi,Niven Beckensall,Male,False,11:33 PM,4:59 PM,Nairobi
+265,Cottage,142.28,2.4,Pool,Eleni Barneville,Female,False,6:18 AM,9:40 PM,Mombasa
+266,Cottage,458.5,4.9,Parking,Jarrad Bithany,Male,False,9:25 PM,11:28 AM,Kisumu
+267,House,251.65,3.0,Parking,Nadya Wrefford,Female,False,12:09 PM,10:57 AM,Eldoret
+268,Bungalow,57.88,2.1,Parking,Bond Halwood,Male,True,1:16 AM,7:23 PM,Nairobi
+269,Cottage,215.77,4.3,Pool,Amelia De Vile,Female,False,5:38 AM,1:22 PM,Kisumu
+270,House,326.16,4.1,Wifi,Waylan Marchetti,Male,False,5:15 AM,11:47 AM,Nakuru
+271,Bungalow,183.61,4.2,Pool,Lacee Torri,Female,False,10:59 PM,10:01 PM,Nakuru
+272,Bungalow,360.77,3.1,Pool,Roz Hrinishin,Female,False,9:21 AM,1:24 PM,Nakuru
+273,Cottage,66.13,3.1,Wifi,Anderson Davydkov,Male,False,11:13 PM,8:05 AM,Kisumu
+274,House,287.05,2.6,Wifi,Bartholomeus Skim,Male,True,9:07 AM,5:45 AM,Nakuru
+275,House,376.48,4.1,Wifi,Jonis Cotta,Female,False,5:23 AM,8:42 PM,Eldoret
+276,Cottage,141.26,1.1,Pool,Theobald Rogister,Male,False,5:39 AM,3:10 AM,Nakuru
+277,Villa,429.25,4.4,Pool,Glyn Gaisford,Female,False,7:00 PM,12:49 AM,Eldoret
+278,Cottage,461.99,1.3,Air Conditioning,Rozamond Ausiello,Female,True,10:18 PM,1:32 PM,Eldoret
+279,Cottage,399.96,3.4,Air Conditioning,Isador Bruineman,Male,True,6:09 AM,1:14 AM,Mombasa
+280,Apartment,61.2,4.4,Wifi,Joey Scandroot,Female,True,12:50 AM,10:44 PM,Nairobi
+281,Cottage,229.12,4.1,Breakfast Included,Cullin Witherdon,Male,True,5:38 AM,12:09 PM,Nairobi
+282,Villa,293.67,1.8,Parking,Randolf MacKegg,Male,True,11:58 AM,5:03 PM,Mombasa
+283,Apartment,109.28,4.9,Pool,Lyndsie Soldan,Female,False,11:07 AM,10:00 PM,Mombasa
+284,Apartment,408.81,3.3,Breakfast Included,Wiley Brideaux,Male,False,4:03 AM,11:53 AM,Eldoret
+285,Apartment,119.6,3.0,Breakfast Included,Jammie Shillinglaw,Female,False,2:09 PM,7:48 AM,Nairobi
+286,Bungalow,292.26,1.7,Wifi,Sig Loughney,Male,True,7:56 PM,5:11 AM,Kisumu
+287,Cottage,374.47,4.7,Parking,Sibley Latore,Female,True,10:38 AM,3:11 PM,Nakuru
+288,Villa,462.49,4.7,Parking,Frazer Bydaway,Male,False,12:13 PM,4:03 AM,Kisumu
+289,Bungalow,239.84,2.9,Parking,Vladamir Juhruke,Male,False,12:28 PM,7:04 PM,Kisumu
+290,House,402.84,3.0,Breakfast Included,Kipp Scotchmore,Female,False,1:28 PM,3:04 PM,Mombasa
+291,Villa,463.26,3.7,Breakfast Included,Felipe Reckhouse,Male,False,10:04 AM,9:30 AM,Mombasa
+292,Apartment,426.69,1.4,Parking,Nanette Guerriero,Female,True,3:51 AM,6:46 PM,Nakuru
+293,Apartment,363.35,3.6,Air Conditioning,Elena Cheverton,Female,False,7:38 AM,11:16 AM,Nairobi
+294,Villa,123.09,3.1,Wifi,Johannes Beddis,Male,True,2:05 AM,9:49 PM,Kisumu
+295,Apartment,140.34,1.6,Parking,Brandtr Aldren,Male,False,9:01 AM,8:50 AM,Mombasa
+296,Bungalow,228.79,2.6,Pool,Dar Dabbes,Male,True,3:06 PM,1:15 AM,Nakuru
+297,House,263.36,1.0,Parking,Tam De Cristofalo,Bigender,True,2:22 PM,4:41 PM,Nakuru
+298,Villa,351.04,1.3,Breakfast Included,Byron Shank,Male,False,10:48 PM,8:55 PM,Nairobi
+299,Bungalow,427.85,4.0,Breakfast Included,Kienan Harsnep,Male,True,10:34 PM,2:06 PM,Kisumu
+300,Bungalow,52.38,4.3,Parking,Liuka Haken,Female,True,7:09 AM,3:28 PM,Eldoret
+301,House,63.21,2.8,Breakfast Included,Keri Gately,Non-binary,True,7:30 PM,12:16 PM,Kisumu
+302,Apartment,51.97,2.3,Parking,Ruthe Sharple,Female,True,6:26 AM,7:35 PM,Kisumu
+303,Cottage,463.4,3.5,Air Conditioning,Ynes Loveredge,Female,False,2:24 PM,1:56 AM,Nakuru
+304,Bungalow,468.86,4.9,Air Conditioning,Roanna MacFie,Female,False,5:28 PM,7:22 PM,Eldoret
+305,Bungalow,261.99,2.5,Air Conditioning,Roanne Liddyard,Genderqueer,False,11:32 AM,6:06 AM,Eldoret
+306,Villa,341.78,4.0,Wifi,Iggy Mattimoe,Male,True,12:45 AM,5:42 AM,Mombasa
+307,House,67.39,4.8,Wifi,Prudence Aish,Female,False,6:46 PM,4:13 AM,Nakuru
+308,Cottage,402.09,3.1,Parking,Gaye Chadband,Female,True,7:36 PM,12:14 AM,Mombasa
+309,Cottage,296.8,3.6,Breakfast Included,Townie Mitkov,Male,True,1:42 AM,6:37 PM,Kisumu
+310,Cottage,245.51,1.5,Pool,Kristopher Cornhill,Male,False,8:52 AM,2:28 PM,Nairobi
+311,Villa,295.86,3.4,Parking,Karna Widdowfield,Female,False,11:31 AM,8:12 AM,Nairobi
+312,Cottage,161.21,4.4,Wifi,Muhammad Fechnie,Male,False,9:51 AM,2:11 PM,Mombasa
+313,Cottage,407.02,2.0,Air Conditioning,Antin Blinder,Male,False,9:08 AM,9:41 AM,Eldoret
+314,Bungalow,195.11,2.3,Pool,Fidelia Wingeat,Genderfluid,True,2:16 PM,10:15 PM,Kisumu
+315,Apartment,322.77,1.1,Pool,Dyanne Masedon,Female,True,3:48 PM,5:17 AM,Nairobi
+316,Apartment,425.24,1.4,Pool,Nye Boggis,Male,True,8:26 PM,2:28 PM,Eldoret
+317,House,317.55,2.1,Breakfast Included,Bartolemo Snawden,Male,True,9:36 PM,7:20 PM,Kisumu
+318,House,429.73,1.6,Air Conditioning,Bail Gladyer,Male,True,4:45 AM,7:15 AM,Eldoret
+319,Bungalow,185.61,4.6,Breakfast Included,Bailey Craddy,Male,False,6:33 PM,12:08 AM,Kisumu
+320,House,81.46,3.3,Wifi,Jayne Swatradge,Female,True,9:26 AM,7:25 AM,Nakuru
+321,House,351.1,2.0,Breakfast Included,Peria Checketts,Female,True,4:30 PM,7:26 AM,Eldoret
+322,Apartment,157.07,4.7,Breakfast Included,Lona Critchell,Female,False,8:49 AM,8:59 AM,Kisumu
+323,House,258.38,2.4,Parking,Ivett Iggo,Female,True,7:50 PM,7:04 AM,Nakuru
+324,Apartment,429.16,2.2,Parking,Verina Hedman,Female,True,5:14 PM,11:17 PM,Eldoret
+325,Cottage,451.6,4.2,Pool,Rog Foran,Male,False,9:41 PM,4:43 AM,Kisumu
+326,House,176.53,4.0,Breakfast Included,Rona Southern,Female,False,6:45 PM,1:40 AM,Nairobi
+327,Cottage,319.43,1.6,Wifi,Maggy McCafferky,Female,False,11:31 AM,7:53 AM,Eldoret
+328,Apartment,317.02,2.1,Pool,Ardith Cutriss,Female,False,2:30 AM,1:34 PM,Mombasa
+329,Apartment,110.44,2.0,Parking,Ceciley Eaves,Non-binary,True,2:31 PM,7:45 PM,Eldoret
+330,Villa,127.36,2.6,Wifi,Wernher Coombs,Male,True,2:50 PM,3:04 PM,Nakuru
+331,Bungalow,87.69,4.5,Breakfast Included,Myer Mumby,Male,True,4:13 PM,4:52 AM,Nairobi
+332,Cottage,118.52,4.6,Air Conditioning,Darryl Shelley,Female,True,7:05 AM,5:50 AM,Mombasa
+333,Bungalow,100.37,2.7,Wifi,Rickie Durtnall,Male,False,2:32 AM,8:17 AM,Eldoret
+334,Cottage,328.82,1.1,Breakfast Included,Eartha Pougher,Female,True,1:34 AM,6:11 PM,Eldoret
+335,Apartment,402.37,2.3,Wifi,Prentice Milsom,Male,True,7:35 PM,12:17 PM,Eldoret
+336,House,142.78,1.9,Breakfast Included,Wyatt Brandacci,Male,True,12:19 PM,4:41 PM,Nakuru
+337,House,482.27,1.3,Parking,Neall Skade,Male,True,7:39 PM,1:17 AM,Nakuru
+338,House,169.95,5.0,Air Conditioning,Darby Roffe,Female,True,8:06 PM,1:41 PM,Nakuru
+339,Cottage,497.38,3.4,Air Conditioning,Giuseppe Brabham,Male,False,3:48 PM,7:34 AM,Kisumu
+340,Bungalow,156.26,4.0,Wifi,Brnaba Darrington,Male,True,5:27 PM,1:15 AM,Mombasa
+341,Bungalow,174.44,1.4,Breakfast Included,Darcey Roddick,Female,True,8:41 PM,12:14 PM,Mombasa
+342,Cottage,347.86,2.2,Parking,Jan Greenrde,Female,True,5:12 PM,9:24 PM,Nakuru
+343,Villa,443.85,3.2,Air Conditioning,Vinson Pablo,Male,False,4:33 PM,12:12 AM,Mombasa
+344,Cottage,467.77,3.9,Breakfast Included,Dixie Imm,Female,True,4:33 PM,1:52 PM,Nairobi
+345,Bungalow,457.08,2.8,Pool,Rhea Andrys,Bigender,False,1:18 PM,5:13 AM,Eldoret
+346,Bungalow,92.12,4.2,Wifi,Cece Fenimore,Non-binary,False,12:39 AM,9:02 PM,Nakuru
+347,Apartment,345.04,2.0,Wifi,Kinsley Billany,Male,False,9:46 AM,9:09 AM,Nakuru
+348,Bungalow,432.11,1.4,Parking,Chrissy Fliege,Non-binary,False,4:17 AM,9:02 PM,Mombasa
+349,Apartment,153.97,2.8,Pool,Eolanda Cammack,Female,False,4:15 PM,2:23 PM,Nairobi
+350,Villa,75.54,4.3,Air Conditioning,Lannie Giovanizio,Male,True,5:11 PM,2:27 PM,Eldoret
+351,House,388.75,2.8,Parking,Anna-diane Etherton,Female,True,9:18 AM,7:13 PM,Eldoret
+352,House,325.48,3.9,Wifi,Jordon O'Fairy,Bigender,True,3:20 PM,2:06 AM,Eldoret
+353,Bungalow,303.53,2.5,Parking,Josefina Dafter,Female,False,10:16 PM,7:01 PM,Nairobi
+354,House,150.63,5.0,Air Conditioning,Ambrosius Lanfear,Male,True,3:18 PM,8:20 PM,Nairobi
+355,House,426.2,3.2,Breakfast Included,Fax Brasseur,Male,True,7:40 PM,2:07 PM,Kisumu
+356,Apartment,206.49,1.3,Breakfast Included,Cecile McGhie,Female,False,5:23 PM,1:14 PM,Nairobi
+357,Bungalow,271.5,1.3,Breakfast Included,Jasmina Cake,Female,True,5:08 AM,12:29 AM,Nairobi
+358,Apartment,249.47,3.4,Air Conditioning,Tessa Clausson,Female,True,2:16 PM,10:03 PM,Nairobi
+359,Villa,64.43,3.5,Air Conditioning,Carlin Clemon,Male,False,2:48 PM,11:10 AM,Kisumu
+360,Cottage,322.46,1.1,Air Conditioning,Arnuad Cronin,Male,True,6:18 AM,1:18 PM,Nakuru
+361,Bungalow,281.75,2.8,Air Conditioning,Meta MacAlester,Female,True,7:08 PM,11:10 AM,Kisumu
+362,Apartment,460.68,4.9,Breakfast Included,Rufe Volante,Male,True,8:58 AM,12:34 PM,Nakuru
+363,Cottage,226.6,2.6,Pool,Janith Morde,Female,True,9:32 PM,6:30 AM,Kisumu
+364,Apartment,492.26,4.3,Breakfast Included,Karisa Beeken,Female,False,8:51 AM,5:23 PM,Kisumu
+365,Bungalow,81.18,2.3,Parking,Marylou Fendley,Agender,True,11:24 AM,2:08 PM,Kisumu
+366,Bungalow,229.34,3.5,Pool,Hymie Longstaffe,Male,False,7:00 PM,11:16 PM,Kisumu
+367,Bungalow,230.06,4.1,Air Conditioning,Jone Boadby,Male,True,10:28 AM,11:16 PM,Kisumu
+368,Apartment,417.8,1.7,Air Conditioning,Lissa Hulme,Bigender,False,9:21 PM,2:01 AM,Nakuru
+369,Cottage,169.53,4.0,Pool,Sophia Linklater,Female,True,5:20 AM,10:56 PM,Eldoret
+370,Bungalow,237.17,3.7,Breakfast Included,Flossi Lindsell,Female,True,2:59 PM,10:45 PM,Nairobi
+371,Apartment,241.58,2.7,Parking,Kalvin Bikker,Male,True,4:11 AM,4:34 AM,Nakuru
+372,Bungalow,308.49,4.8,Pool,Rhetta Dossit,Female,False,3:26 PM,12:09 PM,Kisumu
+373,Cottage,325.15,4.0,Pool,Emmy Dallow,Male,False,10:26 PM,12:58 PM,Kisumu
+374,Villa,346.67,3.1,Breakfast Included,Franciskus Fanning,Male,False,9:26 PM,3:59 PM,Eldoret
+375,Cottage,297.12,1.0,Air Conditioning,Mitchell Duny,Male,False,5:43 PM,1:04 PM,Nakuru
+376,Apartment,58.06,4.3,Parking,Kelley Winkett,Male,True,5:17 AM,3:55 PM,Nakuru
+377,Apartment,257.38,1.3,Breakfast Included,Bone Frankom,Male,True,11:09 PM,2:47 AM,Nakuru
+378,Villa,50.91,4.5,Breakfast Included,Elvyn Lavalle,Male,False,4:04 AM,11:21 PM,Kisumu
+379,Villa,491.15,1.1,Breakfast Included,Kalie Walton,Female,False,7:36 PM,11:53 AM,Eldoret
+380,Bungalow,329.88,2.5,Parking,Law Parram,Male,True,5:00 AM,10:56 PM,Nairobi
+381,Villa,284.37,4.1,Pool,Anica Goforth,Genderfluid,False,5:31 AM,9:35 AM,Mombasa
+382,Cottage,225.54,1.2,Parking,Conny Grigoryov,Male,False,4:51 AM,10:11 AM,Kisumu
+383,Bungalow,129.1,3.0,Parking,Bethena Boni,Female,True,11:33 PM,9:17 AM,Eldoret
+384,Cottage,405.07,3.0,Pool,Justen Townley,Male,False,10:51 AM,5:02 AM,Kisumu
+385,Bungalow,280.92,2.6,Parking,Meade Sanchiz,Male,False,1:12 AM,3:47 PM,Nakuru
+386,House,341.87,1.4,Pool,Odo Rallinshaw,Male,False,5:53 PM,7:37 AM,Mombasa
+387,Bungalow,217.43,3.2,Pool,Randie Carlet,Male,False,6:41 AM,2:45 PM,Eldoret
+388,Bungalow,353.74,4.9,Wifi,Maurits Kleinsinger,Male,False,12:44 AM,10:02 AM,Kisumu
+389,Cottage,408.6,1.3,Pool,Sofie Moehle,Female,False,3:57 PM,8:47 AM,Nakuru
+390,Cottage,179.99,1.1,Breakfast Included,Mile Arboine,Male,False,1:47 AM,6:02 AM,Nakuru
+391,House,99.19,4.6,Pool,Kilian Tackley,Male,True,9:37 PM,8:11 PM,Mombasa
+392,Apartment,434.64,4.4,Wifi,Cynde Darnell,Female,False,6:23 PM,1:09 AM,Mombasa
+393,House,68.08,3.2,Wifi,Lorens Leighfield,Male,False,4:50 AM,4:13 PM,Kisumu
+394,Cottage,275.71,4.3,Air Conditioning,Johny Fairbairn,Male,False,7:28 PM,6:45 PM,Mombasa
+395,Apartment,88.79,4.2,Parking,Rodolph Coulling,Male,True,11:05 PM,3:38 PM,Nairobi
+396,House,227.01,3.6,Air Conditioning,Gannon Harraway,Male,False,12:50 AM,4:16 AM,Mombasa
+397,Cottage,451.91,1.5,Breakfast Included,Lonnie Hatfull,Male,False,10:48 PM,11:35 AM,Kisumu
+398,Cottage,51.04,2.6,Breakfast Included,Darn Stirland,Male,True,4:08 PM,4:50 PM,Nakuru
+399,House,117.39,3.8,Parking,Bruno Crispe,Male,True,3:44 PM,5:43 PM,Mombasa
+400,House,77.69,1.3,Breakfast Included,Sandie Calvey,Female,True,3:10 AM,3:58 AM,Mombasa
+401,Bungalow,97.49,4.4,Pool,Tania Pickburn,Female,True,10:09 AM,11:39 PM,Eldoret
+402,Cottage,263.02,2.9,Air Conditioning,Merwyn Kovelmann,Bigender,True,5:54 AM,3:41 AM,Kisumu
+403,Apartment,346.06,3.3,Wifi,Natty Blackham,Male,True,11:32 AM,8:25 PM,Mombasa
+404,Villa,291.75,3.4,Parking,Carling Death,Male,True,8:09 AM,6:29 AM,Mombasa
+405,House,158.7,4.1,Air Conditioning,Veradis McJerrow,Female,False,1:19 AM,7:52 AM,Nakuru
+406,House,391.44,2.8,Pool,Harvey Sweetsur,Male,True,4:50 PM,4:35 AM,Kisumu
+407,Cottage,236.18,3.2,Pool,Niki Loverock,Female,False,12:59 AM,12:06 AM,Kisumu
+408,Villa,207.51,2.7,Breakfast Included,Clarence Ronchka,Male,False,5:57 PM,7:01 PM,Nairobi
+409,Cottage,201.9,2.8,Air Conditioning,Elissa Echalier,Female,False,5:36 AM,3:32 AM,Mombasa
+410,Apartment,290.88,4.4,Air Conditioning,Tammi Menego,Female,True,1:54 AM,5:27 PM,Eldoret
+411,Apartment,160.13,4.1,Air Conditioning,Meggi Vasovic,Female,True,10:48 AM,5:47 AM,Mombasa
+412,House,316.38,2.2,Air Conditioning,Paige Jindacek,Male,False,6:16 AM,12:45 AM,Nairobi
+413,Villa,132.75,3.0,Breakfast Included,Bartolemo Filipyev,Male,True,3:26 AM,2:20 PM,Eldoret
+414,Bungalow,51.34,2.8,Air Conditioning,Elladine Lamacraft,Agender,True,9:40 AM,8:31 PM,Kisumu
+415,House,131.89,1.5,Parking,Gillian Joney,Female,True,12:00 PM,11:02 PM,Mombasa
+416,Apartment,294.48,2.6,Air Conditioning,Patrick Simeoli,Male,True,7:12 AM,10:07 PM,Mombasa
+417,Apartment,52.8,4.9,Parking,Chad Rabidge,Male,False,6:41 AM,8:32 PM,Nakuru
+418,House,75.22,2.4,Pool,Chalmers Caisley,Male,False,12:09 AM,5:41 PM,Eldoret
+419,Apartment,199.12,2.9,Pool,Bliss Le Marquand,Female,True,10:44 AM,3:24 AM,Kisumu
+420,Bungalow,196.71,1.6,Pool,Astra Oxenden,Female,False,4:28 AM,3:06 AM,Eldoret
+421,Cottage,431.22,1.2,Parking,Spense Toffler,Male,False,11:22 AM,11:50 AM,Mombasa
+422,Cottage,119.51,4.4,Parking,Devland Stocks,Polygender,True,5:02 PM,10:54 PM,Nakuru
+423,Cottage,441.6,1.2,Pool,Pierre Dudin,Male,False,2:07 AM,11:46 PM,Kisumu
+424,House,75.63,2.2,Air Conditioning,Felita Lawrenson,Female,True,10:21 PM,5:18 AM,Eldoret
+425,Bungalow,358.02,2.6,Pool,Maisey Bwy,Female,True,3:17 PM,9:39 AM,Eldoret
+426,Bungalow,51.55,4.4,Breakfast Included,Meier Yven,Male,True,1:21 AM,3:43 PM,Mombasa
+427,House,269.16,4.5,Air Conditioning,Allie Ralston,Female,True,2:46 PM,1:08 AM,Nakuru
+428,Villa,105.37,2.4,Breakfast Included,Thomasina Scates,Female,True,9:09 PM,6:25 PM,Mombasa
+429,Apartment,120.02,4.1,Wifi,Gussy Bertelmot,Female,True,6:23 PM,12:35 PM,Nairobi
+430,Bungalow,314.59,3.0,Air Conditioning,Ellen Flieg,Agender,True,2:36 AM,10:39 AM,Kisumu
+431,Bungalow,82.83,4.5,Breakfast Included,Buddy Dufer,Male,True,11:22 AM,11:31 AM,Nairobi
+432,House,196.05,1.6,Wifi,Emmy Truett,Female,True,2:32 PM,5:02 AM,Nairobi
+433,Bungalow,133.74,1.1,Pool,Carr Le Fevre,Male,True,2:28 AM,8:33 PM,Nairobi
+434,Bungalow,167.39,4.8,Air Conditioning,Renard Minci,Male,True,7:59 PM,5:56 AM,Nairobi
+435,Apartment,228.42,4.0,Air Conditioning,Kristyn McElwee,Female,False,8:57 AM,2:44 PM,Kisumu
+436,Villa,58.41,2.1,Parking,Emmy Vanner,Male,False,10:21 PM,4:18 AM,Kisumu
+437,Apartment,243.85,4.9,Air Conditioning,Trula Mumbray,Female,False,1:50 AM,4:23 PM,Nairobi
+438,Cottage,402.38,3.2,Air Conditioning,Myrlene Conew,Female,False,7:14 AM,12:46 PM,Mombasa
+439,Villa,310.43,3.3,Air Conditioning,Willabella Raymont,Female,False,8:33 AM,1:33 PM,Nairobi
+440,Cottage,273.35,1.7,Air Conditioning,Ragnar Hazel,Male,True,4:13 PM,1:02 AM,Kisumu
+441,Bungalow,317.33,3.0,Breakfast Included,Garfield Letts,Male,False,6:21 PM,3:03 PM,Nakuru
+442,House,94.01,4.5,Air Conditioning,Vinita Cotterrill,Female,True,4:38 AM,2:25 AM,Eldoret
+443,Cottage,77.29,1.3,Breakfast Included,Lauren Skentelbury,Male,True,2:33 PM,7:57 AM,Nairobi
+444,Villa,83.53,1.5,Breakfast Included,Sofia Cecchetelli,Female,True,2:36 PM,8:38 PM,Kisumu
+445,Villa,205.23,2.4,Pool,Dicky Georgins,Male,False,2:33 PM,5:42 PM,Kisumu
+446,House,177.1,2.0,Air Conditioning,Vilma Krates,Female,False,5:13 PM,2:24 AM,Mombasa
+447,Bungalow,378.97,4.0,Air Conditioning,Nathaniel Burrow,Male,False,11:22 PM,2:06 AM,Mombasa
+448,Bungalow,309.84,2.8,Wifi,Hagan Sigg,Male,False,8:42 PM,12:28 PM,Nakuru
+449,Apartment,418.17,4.3,Breakfast Included,Merrile Fawdry,Female,True,6:45 PM,11:47 AM,Nairobi
+450,House,114.51,2.2,Air Conditioning,Hermina Lewsy,Female,True,12:48 AM,11:01 AM,Nakuru
+451,Bungalow,310.38,5.0,Breakfast Included,Cayla Beviss,Female,True,9:20 AM,3:15 PM,Mombasa
+452,Cottage,303.41,3.2,Pool,Danny Fairbridge,Polygender,True,12:43 AM,1:53 AM,Eldoret
+453,Bungalow,197.46,2.9,Breakfast Included,Casi Larimer,Female,False,12:09 AM,7:14 AM,Eldoret
+454,Bungalow,218.24,1.3,Wifi,Clem Kinig,Male,False,6:13 PM,5:02 AM,Nakuru
+455,Cottage,179.4,1.3,Breakfast Included,Sherwood Grier,Male,True,3:38 PM,3:52 PM,Mombasa
+456,Bungalow,436.36,3.6,Pool,Kiley Pearne,Male,True,6:52 PM,8:41 AM,Kisumu
+457,Apartment,298.13,1.2,Wifi,Marcelia Peotz,Female,True,10:13 PM,3:48 AM,Eldoret
+458,Apartment,330.63,1.2,Air Conditioning,Harvey Pomfret,Male,False,3:40 AM,2:21 AM,Kisumu
+459,Cottage,131.78,4.6,Pool,Scarlet Chapellow,Female,False,9:06 PM,6:09 PM,Mombasa
+460,Bungalow,338.13,2.6,Parking,Dillon Natt,Male,True,4:04 AM,6:01 AM,Nakuru
+461,Villa,234.48,3.8,Wifi,Sibelle Babber,Female,False,11:16 PM,9:29 PM,Nakuru
+462,Cottage,410.93,2.1,Wifi,Angie Sturley,Female,True,4:26 PM,1:50 AM,Nairobi
+463,Cottage,155.04,2.7,Pool,Elfie Delacote,Female,False,11:26 PM,9:10 PM,Mombasa
+464,Villa,110.45,1.1,Wifi,Gilligan Huertas,Genderqueer,True,3:59 AM,6:42 PM,Nairobi
+465,Apartment,433.45,2.4,Wifi,Drona Ambroisin,Female,True,12:38 AM,2:57 AM,Kisumu
+466,Cottage,336.68,1.3,Parking,Gertruda Gillings,Female,False,7:00 PM,1:20 PM,Kisumu
+467,Apartment,251.56,3.7,Parking,Geoffry Abby,Male,True,8:55 PM,4:58 PM,Nairobi
+468,Cottage,156.07,2.9,Breakfast Included,Deanne Medcalfe,Female,False,6:50 PM,2:55 PM,Eldoret
+469,House,60.56,1.5,Air Conditioning,Phillis Grieger,Female,False,9:03 PM,3:23 AM,Mombasa
+470,Villa,353.95,3.3,Parking,Hubie Biasetti,Genderfluid,True,6:19 PM,8:12 AM,Kisumu
+471,Cottage,392.11,3.6,Breakfast Included,Rennie Kintzel,Female,True,12:09 PM,10:05 AM,Eldoret
+472,Villa,251.8,2.9,Air Conditioning,Loria Gideon,Female,False,10:02 PM,11:41 PM,Eldoret
+473,House,252.47,3.8,Parking,Winonah McKue,Female,False,5:27 PM,10:11 AM,Nairobi
+474,Apartment,394.01,1.7,Parking,Kimmie Vedyashkin,Female,True,7:05 AM,6:57 AM,Mombasa
+475,Apartment,310.17,3.0,Breakfast Included,Philippe Coopper,Female,True,8:58 PM,1:10 PM,Mombasa
+476,Apartment,313.39,3.5,Air Conditioning,Yasmeen Louche,Female,False,4:43 PM,1:18 PM,Eldoret
+477,Cottage,144.25,3.7,Pool,Kenny Elphey,Male,True,6:06 AM,3:34 PM,Mombasa
+478,House,424.78,1.8,Pool,Taffy Swinyard,Female,False,9:39 AM,11:53 AM,Eldoret
+479,Villa,467.61,2.5,Pool,Dew Kierans,Male,False,1:42 PM,12:53 PM,Mombasa
+480,Cottage,445.54,2.5,Air Conditioning,Virgie Van Hault,Male,False,4:58 AM,12:18 AM,Kisumu
+481,Apartment,443.6,2.7,Breakfast Included,Chaunce Duckham,Male,False,7:51 PM,6:28 PM,Nairobi
+482,House,182.95,3.3,Pool,Lorinda Whetton,Female,False,11:51 PM,6:44 AM,Kisumu
+483,Cottage,94.43,2.3,Parking,Lorry Heijne,Male,True,8:25 PM,7:38 AM,Kisumu
+484,Villa,275.6,3.8,Air Conditioning,Jude Loudwell,Male,False,7:08 AM,7:23 PM,Nakuru
+485,Apartment,144.79,3.1,Pool,Calhoun Shekle,Male,True,7:49 PM,6:15 PM,Kisumu
+486,Villa,369.84,2.5,Breakfast Included,Candra Cawsby,Female,True,11:10 AM,12:17 AM,Kisumu
+487,Villa,235.6,4.7,Parking,Myca Skingley,Male,True,7:00 AM,10:10 PM,Mombasa
+488,Villa,260.98,2.2,Pool,Oneida Linbohm,Female,True,10:23 AM,9:04 PM,Mombasa
+489,Cottage,113.27,4.7,Breakfast Included,Hirsch Menaul,Male,True,1:55 PM,3:23 AM,Eldoret
+490,Cottage,376.42,2.2,Parking,Victoria Skittrall,Female,False,12:13 PM,6:38 AM,Nairobi
+491,Cottage,337.53,4.8,Breakfast Included,Shirleen Gitsham,Female,False,12:08 PM,3:31 PM,Kisumu
+492,Apartment,374.01,1.3,Parking,Jesus Irce,Male,False,4:38 PM,11:43 AM,Kisumu
+493,Bungalow,477.46,3.3,Breakfast Included,Rayner Chark,Male,True,9:22 PM,3:28 AM,Nakuru
+494,Bungalow,146.78,4.2,Breakfast Included,Bari Davley,Female,False,6:58 PM,11:03 AM,Kisumu
+495,Bungalow,201.07,1.3,Pool,Leanor Proback,Female,False,6:03 PM,3:39 PM,Mombasa
+496,Villa,104.07,2.3,Wifi,Charo Rotherforth,Female,False,9:21 PM,11:23 PM,Kisumu
+497,Villa,401.68,2.4,Breakfast Included,Anastasia Blunsden,Female,False,12:34 AM,8:54 AM,Nakuru
+498,Villa,393.94,5.0,Parking,Dougy Willimot,Male,False,2:19 AM,11:52 PM,Nairobi
+499,Apartment,460.4,4.8,Air Conditioning,Garvy Fulk,Bigender,True,5:20 AM,2:55 AM,Nakuru
+500,Cottage,475.04,2.5,Air Conditioning,Lura Toffetto,Female,False,3:29 AM,10:04 PM,Mombasa
+501,House,58.6,1.5,Pool,Eolanda Arboine,Female,False,1:41 AM,10:23 AM,Kisumu
+502,Cottage,194.63,3.2,Air Conditioning,Tallia Filippo,Female,False,9:20 PM,2:37 AM,Kisumu
+503,Villa,223.59,1.2,Air Conditioning,Oliy Wyeld,Female,True,4:14 PM,3:04 AM,Nakuru
+504,Bungalow,440.66,1.3,Breakfast Included,Nickolaus Olivetti,Male,False,6:28 AM,11:33 PM,Nairobi
+505,Bungalow,430.19,2.1,Parking,Granny Goodsir,Male,True,4:08 PM,10:51 PM,Kisumu
+506,Apartment,418.42,4.8,Wifi,Chase Vasser,Male,True,6:33 PM,1:21 AM,Kisumu
+507,Apartment,86.19,4.7,Parking,Tailor Brody,Male,True,5:08 AM,12:31 AM,Kisumu
+508,House,438.96,1.4,Pool,Gaylord Swaddle,Male,False,4:44 PM,10:06 PM,Nairobi
+509,Bungalow,199.24,2.0,Breakfast Included,Nathanial MacMillan,Male,False,1:45 AM,9:14 PM,Nakuru
+510,Cottage,80.47,3.3,Breakfast Included,Marcille Knaggs,Female,True,10:21 AM,3:56 PM,Kisumu
+511,Cottage,104.0,2.8,Parking,Sashenka World,Genderfluid,False,12:04 PM,11:24 AM,Nairobi
+512,Bungalow,419.69,3.6,Parking,Susann Vergo,Genderfluid,False,5:15 PM,3:43 AM,Mombasa
+513,Cottage,443.57,4.1,Wifi,Willamina Figgs,Female,False,6:31 PM,8:29 PM,Mombasa
+514,Bungalow,435.83,2.1,Breakfast Included,Marena Kellie,Female,False,7:42 PM,8:40 AM,Nakuru
+515,Bungalow,222.95,4.2,Breakfast Included,Pippy Madgwich,Female,True,12:26 AM,3:04 AM,Kisumu
+516,House,281.39,1.1,Parking,Evelyn Taleworth,Male,True,7:06 AM,1:44 AM,Eldoret
+517,Apartment,367.41,3.1,Breakfast Included,Miguelita Sommerville,Female,False,4:08 AM,3:47 AM,Eldoret
+518,Apartment,96.99,2.6,Breakfast Included,Clement Alcalde,Male,True,2:49 AM,12:47 AM,Nairobi
+519,Apartment,464.3,3.9,Parking,Rockie Dranfield,Male,False,11:32 AM,2:44 AM,Nairobi
+520,Bungalow,346.93,1.6,Breakfast Included,Dory Hencke,Female,False,6:30 AM,2:46 AM,Nairobi
+521,Apartment,221.86,2.7,Wifi,Kristy Bulcock,Female,True,12:59 PM,2:11 AM,Kisumu
+522,Apartment,441.44,2.2,Wifi,Gracia Adame,Female,True,1:32 AM,3:01 AM,Nairobi
+523,House,331.84,1.5,Wifi,Reiko Wood,Female,False,6:10 AM,3:31 AM,Nakuru
+524,Villa,232.79,3.5,Pool,Florri Longden,Female,True,4:38 PM,12:18 PM,Eldoret
+525,Cottage,265.38,3.8,Wifi,Ynez Dargavel,Female,True,11:52 AM,1:57 PM,Nakuru
+526,House,388.98,2.4,Air Conditioning,Newton Kilgrew,Male,True,2:45 AM,3:56 PM,Kisumu
+527,Cottage,175.68,2.5,Breakfast Included,Keane Rutley,Male,False,7:53 PM,11:02 AM,Kisumu
+528,Bungalow,171.43,3.4,Parking,Giralda Matthius,Female,True,2:49 PM,5:24 AM,Mombasa
+529,Cottage,371.83,3.1,Breakfast Included,Ogdan Fairbanks,Male,False,5:11 AM,1:39 PM,Mombasa
+530,Villa,486.74,3.4,Breakfast Included,Nathanael Pietzke,Male,True,8:06 PM,2:30 AM,Mombasa
+531,Bungalow,466.66,1.2,Parking,Anissa Stollsteimer,Female,True,6:40 AM,6:05 AM,Nakuru
+532,Bungalow,170.21,3.5,Parking,Augy Retallick,Male,False,4:55 PM,12:55 AM,Mombasa
+533,Cottage,365.18,4.6,Breakfast Included,Kean Gandy,Male,True,10:46 AM,10:40 PM,Kisumu
+534,Cottage,234.46,4.4,Breakfast Included,Obadias Lamburn,Male,True,11:08 AM,2:55 PM,Eldoret
+535,Cottage,386.18,1.8,Parking,Effie Torra,Female,False,6:09 AM,7:10 AM,Eldoret
+536,Cottage,215.62,3.6,Air Conditioning,Harcourt Neathway,Male,False,5:54 AM,6:06 AM,Mombasa
+537,Villa,136.06,2.1,Wifi,Salvatore Janata,Male,False,1:16 PM,5:15 AM,Eldoret
+538,Villa,380.19,2.6,Pool,Jany O'Crevan,Female,False,7:58 PM,7:03 AM,Eldoret
+539,Apartment,176.57,3.3,Breakfast Included,Lyndy Danielkiewicz,Female,True,8:22 AM,11:24 PM,Eldoret
+540,Bungalow,439.04,4.9,Breakfast Included,Husain Strange,Agender,False,1:34 AM,12:45 AM,Nairobi
+541,House,411.94,1.6,Wifi,Adriana Palk,Female,True,10:43 PM,3:29 AM,Mombasa
+542,House,469.6,2.7,Air Conditioning,Mallissa Simkovich,Female,True,1:47 AM,11:19 AM,Kisumu
+543,House,346.4,2.2,Pool,Kaja Seakin,Female,False,10:11 PM,5:23 AM,Nakuru
+544,Bungalow,265.53,1.1,Pool,Koenraad Wherrett,Male,False,9:23 PM,2:00 PM,Eldoret
+545,House,144.68,2.5,Air Conditioning,Rees Fitzroy,Male,False,6:28 PM,5:11 AM,Mombasa
+546,Villa,353.28,1.5,Wifi,Merrick Sparrow,Male,False,12:50 PM,1:00 PM,Nairobi
+547,Bungalow,65.39,4.9,Air Conditioning,Jonathon Cullum,Genderfluid,True,5:27 PM,1:43 PM,Nakuru
+548,Villa,339.35,1.5,Breakfast Included,Ewan Brounsell,Male,True,10:52 AM,9:12 AM,Kisumu
+549,House,440.7,2.1,Air Conditioning,Priscilla Yankishin,Female,True,9:06 AM,10:49 AM,Nairobi
+550,Villa,113.09,4.9,Air Conditioning,Arley Downer,Male,True,9:18 AM,6:39 PM,Nakuru
+551,Bungalow,84.95,3.1,Breakfast Included,Jordan Sare,Female,False,2:23 AM,1:31 AM,Nairobi
+552,Apartment,324.93,2.9,Wifi,Nikki Armytage,Male,True,8:58 PM,12:05 PM,Eldoret
+553,Apartment,120.44,4.4,Pool,Mahmud Buntine,Male,False,7:53 AM,6:10 PM,Kisumu
+554,Apartment,427.08,2.3,Air Conditioning,Rosaline Benedetti,Female,False,7:19 PM,10:18 PM,Mombasa
+555,Bungalow,439.15,4.4,Air Conditioning,Zea McRavey,Female,False,6:22 AM,9:09 PM,Kisumu
+556,House,78.64,3.8,Breakfast Included,Orion Morit,Bigender,True,7:16 PM,3:39 AM,Eldoret
+557,Cottage,104.61,4.9,Air Conditioning,Noam McGarvie,Male,False,12:50 AM,5:06 AM,Mombasa
+558,House,190.66,2.3,Breakfast Included,Harley Batistelli,Male,False,2:06 PM,11:50 AM,Nakuru
+559,Villa,457.64,4.7,Pool,Traci Ingarfield,Genderfluid,False,5:46 AM,7:19 AM,Nakuru
+560,Apartment,331.82,4.3,Breakfast Included,Tan Ast,Male,True,4:24 AM,3:26 AM,Eldoret
+561,House,369.12,4.8,Pool,Rickey Lesly,Male,True,3:22 PM,1:40 PM,Mombasa
+562,Cottage,100.97,2.5,Parking,Viole Esel,Female,True,11:05 AM,11:24 PM,Kisumu
+563,Apartment,158.23,4.8,Wifi,Deva Mackerness,Female,False,2:07 PM,4:53 PM,Kisumu
+564,House,239.26,1.6,Pool,Brittani Hutton,Non-binary,False,4:18 AM,5:34 AM,Eldoret
+565,Bungalow,475.79,1.0,Wifi,Tanya Camerello,Genderqueer,False,11:12 PM,8:10 AM,Kisumu
+566,House,228.85,2.0,Breakfast Included,Domingo Nussen,Male,True,10:18 AM,8:40 AM,Nairobi
+567,Bungalow,498.55,2.8,Parking,Zilvia Shinn,Female,True,12:05 PM,4:18 AM,Kisumu
+568,Bungalow,445.77,1.4,Breakfast Included,Collete Fattore,Female,True,1:08 PM,11:20 PM,Nakuru
+569,Cottage,310.11,1.5,Air Conditioning,Cornelius Poupard,Male,False,12:14 PM,3:58 PM,Nairobi
+570,Apartment,345.84,3.5,Wifi,Trixy Curragh,Polygender,False,4:03 PM,7:29 PM,Eldoret
+571,Bungalow,215.86,2.8,Air Conditioning,Aldon Meins,Non-binary,False,1:01 PM,1:57 PM,Eldoret
+572,Bungalow,312.11,2.3,Air Conditioning,Shir Fone,Female,False,7:46 AM,6:12 PM,Mombasa
+573,Cottage,264.93,2.6,Air Conditioning,Derron Bruckental,Bigender,False,2:41 AM,5:44 PM,Nairobi
+574,House,143.45,2.5,Wifi,Marten Atkins,Male,True,3:26 AM,10:06 PM,Nakuru
+575,Bungalow,446.08,4.7,Parking,Daryn Kinnie,Genderfluid,True,3:33 PM,8:00 PM,Eldoret
+576,Bungalow,213.71,2.7,Air Conditioning,Ericka Odgers,Non-binary,True,1:27 AM,7:45 AM,Mombasa
+577,Villa,448.09,3.2,Pool,Carney Vaines,Male,False,8:44 PM,6:47 AM,Kisumu
+578,House,253.22,4.1,Breakfast Included,Nannette Gatley,Female,True,3:47 PM,3:39 PM,Nairobi
+579,Bungalow,329.56,3.6,Pool,Petrina Mc Faul,Female,True,2:39 AM,5:21 PM,Eldoret
+580,Villa,384.8,2.1,Parking,Lindsay Gaiger,Non-binary,True,9:56 PM,10:58 PM,Eldoret
+581,Bungalow,100.12,4.2,Breakfast Included,Willetta Martijn,Female,False,9:36 AM,4:09 AM,Mombasa
+582,Villa,275.72,3.2,Pool,Wheeler Ambrosini,Male,True,12:59 AM,3:53 PM,Eldoret
+583,Villa,196.22,2.6,Air Conditioning,Berna Hebburn,Female,False,8:04 AM,8:49 PM,Kisumu
+584,Apartment,155.42,3.8,Air Conditioning,Merrielle Fussell,Female,True,1:23 PM,5:30 AM,Nakuru
+585,House,424.35,2.2,Pool,Risa Van Giffen,Female,True,7:34 AM,9:45 AM,Nakuru
+586,Villa,265.25,3.9,Breakfast Included,Leoine Stangroom,Female,True,6:58 PM,8:10 PM,Mombasa
+587,Villa,488.92,3.9,Breakfast Included,Wylie Ruilton,Male,False,6:11 PM,9:40 AM,Kisumu
+588,Cottage,101.73,1.8,Wifi,Jeanine Glamart,Female,True,9:16 AM,5:59 PM,Eldoret
+589,Apartment,124.46,5.0,Wifi,Rickie Caddan,Male,False,2:54 AM,8:04 AM,Nairobi
+590,Bungalow,384.22,2.2,Breakfast Included,Ethelyn Wass,Female,True,9:27 AM,6:04 AM,Nairobi
+591,Apartment,268.93,2.4,Wifi,Marion Bawden,Male,False,4:57 AM,3:04 AM,Eldoret
+592,Cottage,255.9,3.7,Breakfast Included,Tonya Hamson,Female,True,9:57 PM,12:14 PM,Mombasa
+593,Apartment,483.85,4.6,Air Conditioning,Orelle Rissom,Female,False,12:10 PM,6:50 AM,Nairobi
+594,Cottage,181.47,1.5,Breakfast Included,Toby Rankcom,Female,True,7:00 PM,10:00 PM,Kisumu
+595,Cottage,389.35,2.3,Pool,Job Disman,Male,True,3:37 PM,11:23 AM,Nairobi
+596,House,77.79,3.3,Wifi,Donalt Skeffington,Male,False,2:11 PM,3:08 PM,Kisumu
+597,Villa,291.08,2.7,Pool,Millicent Ebunoluwa,Female,True,1:51 AM,4:22 PM,Nakuru
+598,Cottage,480.12,1.1,Breakfast Included,Celestyna Node,Female,True,11:09 AM,8:13 AM,Nakuru
+599,Bungalow,308.48,3.7,Air Conditioning,Hedi MacKeeg,Female,True,9:18 PM,6:42 PM,Nairobi
+600,Villa,61.91,1.2,Parking,Ingra Matuska,Male,True,4:17 AM,11:27 AM,Mombasa
+601,Apartment,292.77,1.7,Wifi,Janith Scrange,Female,False,8:28 PM,10:06 PM,Nairobi
+602,Cottage,194.6,4.4,Air Conditioning,Guglielma Mussington,Bigender,False,9:24 AM,7:20 AM,Eldoret
+603,Bungalow,479.04,1.6,Wifi,Jaimie Enrrico,Female,False,3:40 PM,2:00 PM,Nakuru
+604,House,104.36,4.1,Breakfast Included,Jackie Laming,Female,True,4:00 PM,7:41 PM,Nakuru
+605,Apartment,61.21,4.0,Pool,Erinna Boarder,Female,True,4:24 AM,12:45 AM,Nairobi
+606,Apartment,366.44,3.7,Parking,Nani Wolsey,Female,True,11:41 AM,9:52 PM,Kisumu
+607,Apartment,120.37,1.5,Wifi,Lib Snoddy,Genderfluid,True,4:13 AM,6:59 AM,Nairobi
+608,Apartment,167.1,4.6,Breakfast Included,Roman Kyles,Male,True,2:21 PM,10:01 PM,Kisumu
+609,Apartment,318.64,3.2,Pool,Markos Bergstram,Male,False,5:18 PM,3:55 PM,Eldoret
+610,Bungalow,68.61,1.8,Wifi,Tobias Jacobssen,Male,True,3:44 AM,11:19 AM,Eldoret
+611,Apartment,299.49,2.1,Breakfast Included,Mariette Emmott,Female,True,2:38 AM,6:34 PM,Mombasa
+612,Bungalow,496.63,4.9,Pool,Klarika Gaddes,Female,True,11:16 PM,2:31 PM,Mombasa
+613,Cottage,148.96,3.3,Parking,Renata Giacubbo,Female,True,10:23 AM,1:19 AM,Nairobi
+614,Villa,251.29,2.2,Wifi,Tina Kelberman,Genderfluid,False,9:28 AM,4:42 AM,Kisumu
+615,Bungalow,204.45,2.6,Pool,Jannel Poltone,Female,True,2:05 PM,8:42 AM,Eldoret
+616,Apartment,472.39,3.0,Breakfast Included,Cher Tofts,Female,True,8:57 PM,7:53 AM,Mombasa
+617,Villa,182.21,1.8,Air Conditioning,Sidney Saipy,Male,False,7:31 AM,4:34 AM,Eldoret
+618,Bungalow,142.49,4.3,Air Conditioning,Geordie Vest,Male,True,4:10 PM,3:25 PM,Kisumu
+619,Villa,248.36,3.2,Wifi,Christy Walpole,Female,False,10:43 PM,3:57 AM,Nakuru
+620,Bungalow,471.85,3.0,Breakfast Included,Gal Deary,Male,False,4:46 PM,5:56 PM,Nairobi
+621,House,471.44,3.1,Parking,Maurice Fullerd,Polygender,False,6:37 AM,10:30 PM,Nakuru
+622,Bungalow,226.43,1.6,Wifi,Emlyn Ransom,Male,False,7:37 PM,3:49 AM,Nairobi
+623,Villa,287.77,1.4,Breakfast Included,Jill Bakhrushkin,Female,False,4:30 AM,9:03 PM,Kisumu
+624,Apartment,183.81,4.2,Pool,Hewitt Volks,Male,False,7:27 AM,12:07 AM,Eldoret
+625,Cottage,53.49,2.5,Parking,Ericka Henden,Female,False,11:45 AM,2:38 PM,Mombasa
+626,Apartment,58.78,3.9,Pool,Rozele Neve,Female,True,2:29 PM,2:05 AM,Eldoret
+627,Cottage,357.92,3.3,Wifi,Ody Sofe,Male,False,7:21 AM,1:15 PM,Nairobi
+628,House,109.85,1.8,Pool,Andras Todd,Male,False,10:23 AM,4:52 PM,Eldoret
+629,Bungalow,192.76,3.0,Parking,Lawrence Bahia,Male,True,10:05 AM,6:51 AM,Nakuru
+630,Cottage,321.06,4.0,Breakfast Included,Guinna Derobert,Female,True,8:57 PM,2:23 AM,Kisumu
+631,Bungalow,370.51,4.1,Air Conditioning,Lonny Titmarsh,Male,False,11:56 AM,5:46 PM,Nakuru
+632,Apartment,199.23,1.2,Parking,Nicholas Goldsbrough,Male,True,9:09 AM,9:30 AM,Mombasa
+633,Apartment,59.84,3.5,Air Conditioning,Gianina Benbrick,Female,True,4:17 AM,5:52 PM,Eldoret
+634,Bungalow,132.59,1.4,Wifi,Belia Linstead,Polygender,True,2:35 PM,9:19 PM,Nakuru
+635,House,411.48,1.3,Wifi,Andrea Franke,Female,True,10:28 PM,10:11 AM,Nakuru
+636,Bungalow,367.91,1.4,Wifi,Batsheva Readwing,Female,True,8:47 PM,9:44 PM,Nakuru
+637,Cottage,380.07,2.6,Breakfast Included,Waiter Cruikshanks,Male,False,3:33 PM,4:24 AM,Eldoret
+638,House,307.94,1.4,Parking,Raquela Matson,Female,True,12:25 PM,3:22 AM,Mombasa
+639,Bungalow,418.35,3.7,Pool,Delilah Bettesworth,Female,False,4:08 AM,12:22 PM,Eldoret
+640,Apartment,174.59,2.6,Breakfast Included,Norri Baird,Bigender,False,9:30 PM,7:22 AM,Eldoret
+641,Apartment,330.61,4.0,Wifi,Brande Forst,Female,True,12:50 PM,7:25 AM,Nairobi
+642,House,100.5,2.7,Pool,Sawyer Creevy,Male,False,5:30 AM,8:55 AM,Kisumu
+643,House,77.41,4.6,Air Conditioning,Dagmar Rylatt,Female,False,1:46 AM,10:56 AM,Kisumu
+644,House,220.95,3.6,Wifi,Mallorie Takos,Female,False,2:57 AM,10:42 AM,Eldoret
+645,Bungalow,272.17,2.6,Parking,Caitlin Switland,Female,False,10:10 PM,2:24 AM,Mombasa
+646,Apartment,199.87,1.7,Parking,Malachi Pevie,Male,False,6:55 PM,5:36 PM,Nairobi
+647,Villa,214.8,1.7,Parking,Valaria Stradling,Female,True,9:03 AM,5:32 PM,Nairobi
+648,Bungalow,140.91,5.0,Air Conditioning,Bertram Bonhill,Male,False,9:47 AM,8:04 AM,Eldoret
+649,Villa,294.64,4.6,Parking,Durand Yoakley,Male,True,4:21 PM,6:49 AM,Mombasa
+650,Apartment,496.91,4.5,Air Conditioning,Wolf Buncombe,Male,True,6:25 AM,6:00 AM,Kisumu
+651,Cottage,117.61,4.3,Breakfast Included,Pace Bagnal,Genderfluid,False,10:59 PM,8:13 PM,Kisumu
+652,Apartment,469.5,2.1,Wifi,Leonore Effaunt,Female,False,11:23 AM,6:09 AM,Nakuru
+653,Apartment,470.58,1.6,Parking,Chuck Rugiero,Bigender,True,11:38 PM,8:57 PM,Nairobi
+654,Villa,179.76,2.3,Wifi,Huberto Greggersen,Male,False,11:29 PM,5:12 AM,Mombasa
+655,Apartment,402.64,3.5,Breakfast Included,Perla Staneland,Female,False,10:46 PM,11:38 PM,Mombasa
+656,Villa,113.73,2.4,Wifi,Charmine McCabe,Female,False,3:58 AM,3:21 AM,Eldoret
+657,Cottage,290.13,4.0,Parking,Lucina Greatbanks,Female,True,1:04 PM,5:09 PM,Mombasa
+658,Apartment,105.72,3.2,Air Conditioning,Eliot Gabbatiss,Male,True,8:07 AM,2:03 PM,Eldoret
+659,Cottage,60.36,1.7,Wifi,Julieta Cossom,Female,True,5:28 AM,10:55 PM,Mombasa
+660,House,239.08,2.7,Wifi,Elle Randal,Female,True,1:05 AM,1:12 PM,Nairobi
+661,Bungalow,186.13,4.3,Parking,Jerome Hambling,Male,True,7:27 AM,8:07 PM,Eldoret
+662,Cottage,132.23,4.4,Pool,Moritz Reedshaw,Male,True,7:28 AM,9:20 AM,Nakuru
+663,Bungalow,104.73,4.9,Breakfast Included,Rich Geoghegan,Male,True,3:36 AM,8:09 PM,Mombasa
+664,House,259.45,2.1,Wifi,Francis Malzard,Genderqueer,True,4:48 PM,12:41 AM,Kisumu
+665,Villa,280.22,1.2,Wifi,Gusty Cotter,Female,False,11:28 AM,9:36 PM,Kisumu
+666,House,151.08,3.3,Parking,Evvie Kitley,Female,False,4:04 AM,9:53 PM,Nakuru
+667,Villa,215.87,4.4,Pool,Alric Milmoe,Male,True,9:08 AM,7:35 AM,Kisumu
+668,Villa,440.71,2.6,Wifi,Brent Sollner,Male,True,12:21 AM,3:55 PM,Kisumu
+669,House,138.59,4.9,Pool,Toby Lammertz,Female,False,7:43 AM,7:18 PM,Kisumu
+670,Bungalow,142.54,2.2,Parking,Pollyanna Castella,Female,False,12:56 AM,1:49 PM,Eldoret
+671,Apartment,337.69,4.3,Parking,Johann Bostick,Male,True,10:36 AM,7:45 PM,Nakuru
+672,Cottage,105.0,2.2,Breakfast Included,Libbey Proudlove,Female,True,2:04 PM,8:59 PM,Kisumu
+673,Bungalow,163.37,2.7,Air Conditioning,Wheeler Kendred,Male,False,11:51 PM,5:51 AM,Eldoret
+674,Cottage,68.63,2.1,Pool,Silas Oldrey,Male,True,12:11 AM,11:43 PM,Eldoret
+675,Villa,229.27,2.0,Air Conditioning,Ignacius Bevans,Male,False,5:50 AM,5:52 AM,Eldoret
+676,Bungalow,153.38,3.9,Pool,Casandra Eckersall,Female,False,3:40 PM,10:37 AM,Nakuru
+677,Bungalow,329.44,1.3,Wifi,Wright Seawright,Male,True,3:41 AM,3:47 AM,Mombasa
+678,Apartment,122.79,2.5,Wifi,Derrick Packer,Male,True,9:00 AM,3:08 AM,Nairobi
+679,Apartment,429.95,2.5,Breakfast Included,Virgil Andrejs,Male,True,7:24 PM,4:34 AM,Kisumu
+680,Villa,360.52,4.7,Wifi,Guillermo Stayte,Male,True,6:21 PM,11:42 AM,Kisumu
+681,Cottage,402.8,1.4,Breakfast Included,Berkley Ackroyd,Male,False,1:21 PM,11:45 AM,Mombasa
+682,Apartment,286.9,2.9,Parking,Jarrod Kempstone,Male,False,7:35 AM,5:08 PM,Nakuru
+683,House,186.49,3.1,Wifi,Gwynne Burbank,Female,True,3:33 PM,9:33 AM,Eldoret
+684,House,196.0,1.5,Pool,Rosco Dymick,Male,False,10:39 AM,7:53 PM,Eldoret
+685,Bungalow,459.24,3.2,Air Conditioning,Nevin Chishull,Male,True,4:34 AM,8:00 PM,Nakuru
+686,Apartment,455.82,3.1,Parking,Abbe Twamley,Female,True,8:06 PM,4:32 PM,Kisumu
+687,Villa,258.56,1.1,Pool,Austin Berecloth,Male,True,10:46 PM,7:09 AM,Kisumu
+688,House,433.01,2.6,Air Conditioning,Bert Brauns,Male,True,6:59 PM,7:16 AM,Kisumu
+689,Cottage,359.01,3.1,Pool,Florencia Fern,Polygender,False,1:04 AM,1:34 AM,Nakuru
+690,Bungalow,163.52,2.3,Wifi,Ambrosius Tiernan,Male,False,1:43 AM,8:52 AM,Kisumu
+691,Apartment,371.51,3.5,Wifi,Roman Mildenhall,Male,True,2:18 PM,8:19 PM,Eldoret
+692,Bungalow,75.24,2.0,Air Conditioning,Adda Leedal,Female,False,2:32 PM,1:46 AM,Eldoret
+693,Villa,346.26,1.8,Air Conditioning,Justis Gabbitus,Male,False,11:35 PM,3:59 AM,Nakuru
+694,Cottage,302.81,4.3,Breakfast Included,Siegfried MacAlroy,Male,True,12:35 AM,11:19 AM,Mombasa
+695,Cottage,289.81,4.1,Pool,Loralee Skitterel,Female,True,11:49 AM,9:05 AM,Nairobi
+696,Apartment,362.16,2.7,Wifi,Elmo Ringsell,Male,True,12:08 PM,5:38 PM,Nairobi
+697,House,258.71,5.0,Air Conditioning,Alic Clemerson,Male,True,3:48 PM,1:29 PM,Mombasa
+698,Cottage,462.13,4.5,Air Conditioning,Conrade holmes,Male,False,10:42 PM,12:37 AM,Kisumu
+699,Villa,73.5,1.9,Air Conditioning,Maurice Blethyn,Male,True,2:10 AM,10:25 PM,Nairobi
+700,Bungalow,464.01,3.5,Air Conditioning,Daren Paolotto,Male,True,11:17 PM,6:40 AM,Mombasa
+701,House,323.89,4.6,Pool,Carolee Lovstrom,Female,True,11:47 AM,11:50 AM,Eldoret
+702,House,218.3,1.0,Parking,Jaimie Tudge,Female,False,6:53 AM,12:03 AM,Nakuru
+703,Apartment,207.24,3.1,Breakfast Included,Olia Addinall,Female,False,5:01 PM,8:02 AM,Kisumu
+704,Bungalow,85.77,3.3,Breakfast Included,Kasper Broschke,Male,True,5:32 AM,12:52 AM,Eldoret
+705,Apartment,270.96,4.6,Wifi,Sydel Davioud,Female,True,5:21 PM,7:14 AM,Kisumu
+706,Villa,73.78,3.7,Pool,Zedekiah Tapin,Male,True,9:44 AM,3:24 PM,Mombasa
+707,Bungalow,364.37,3.4,Parking,Rosy Di Baudi,Female,True,8:30 AM,5:05 AM,Eldoret
+708,House,393.31,2.3,Pool,Herta Dunkerly,Female,False,7:08 AM,10:13 AM,Kisumu
+709,Bungalow,492.97,3.1,Wifi,Alon Castel,Male,True,5:38 PM,8:17 PM,Nairobi
+710,Villa,60.73,2.9,Wifi,Aurthur Ernke,Male,True,4:20 AM,9:25 PM,Nakuru
+711,Villa,461.67,2.4,Pool,Karie Nowland,Female,False,8:14 AM,6:40 AM,Nakuru
+712,Apartment,278.96,1.8,Breakfast Included,Lyndell Ceci,Female,False,7:39 AM,7:14 AM,Kisumu
+713,House,73.47,4.2,Pool,Val Holleworth,Female,True,6:02 PM,4:00 PM,Nairobi
+714,Villa,128.69,2.9,Air Conditioning,Ellis O'Scanlan,Polygender,False,9:40 PM,9:30 PM,Mombasa
+715,Cottage,161.17,3.0,Wifi,Delphine Dudman,Female,False,8:14 AM,2:28 AM,Nakuru
+716,Villa,51.14,3.3,Breakfast Included,Brand Pescud,Male,True,12:37 AM,6:48 AM,Nairobi
+717,Apartment,212.67,4.7,Wifi,Hailee Esherwood,Female,True,11:13 PM,4:20 PM,Kisumu
+718,Cottage,394.05,4.5,Air Conditioning,Karlis Spoward,Male,False,7:08 AM,10:49 AM,Nakuru
+719,House,290.48,1.5,Pool,Tremayne Bulman,Male,False,7:06 PM,7:02 PM,Eldoret
+720,Villa,102.29,3.7,Wifi,Winfred Bruno,Male,False,6:59 AM,10:19 PM,Eldoret
+721,Cottage,184.46,3.1,Air Conditioning,Vinny Fonteyne,Female,False,7:25 AM,8:14 AM,Nairobi
+722,Bungalow,241.13,4.2,Pool,Tildy Mence,Female,False,8:34 AM,10:59 AM,Mombasa
+723,House,56.4,1.7,Pool,Ashly Camocke,Female,True,11:41 AM,3:19 AM,Eldoret
+724,House,367.15,2.8,Parking,Saundra Padmore,Male,True,4:34 PM,3:00 AM,Eldoret
+725,House,96.55,2.2,Wifi,Hansiain Thewles,Male,False,1:26 PM,2:55 AM,Kisumu
+726,Villa,158.63,3.7,Pool,Guenevere Thombleson,Agender,False,10:47 PM,2:17 PM,Nakuru
+727,Bungalow,440.35,3.5,Pool,Amabel Mouncher,Female,False,5:34 PM,11:49 AM,Mombasa
+728,Cottage,338.3,3.3,Air Conditioning,Madelon Wandrich,Bigender,True,7:32 PM,4:19 AM,Kisumu
+729,Apartment,120.07,1.4,Parking,Berti Gritsunov,Female,True,8:45 AM,4:55 PM,Nakuru
+730,House,137.77,3.3,Parking,Ikey Mushett,Male,False,6:01 AM,3:01 PM,Nakuru
+731,Villa,487.96,3.2,Air Conditioning,Maudie Greenin,Female,True,6:08 PM,10:56 PM,Nairobi
+732,Apartment,372.22,4.9,Wifi,Garfield Burnapp,Male,True,5:10 PM,4:58 AM,Eldoret
+733,House,50.1,4.0,Breakfast Included,Sibelle Cardo,Female,False,5:24 AM,1:30 AM,Mombasa
+734,Villa,258.57,3.8,Air Conditioning,Hugh Rentelll,Male,True,12:13 PM,6:46 AM,Nairobi
+735,Bungalow,170.03,3.9,Air Conditioning,Vivienne Royall,Female,False,4:49 PM,12:51 PM,Kisumu
+736,Villa,340.51,1.0,Air Conditioning,Claudie Durnford,Female,False,10:41 AM,7:35 AM,Nairobi
+737,Bungalow,181.32,3.3,Air Conditioning,Enrico Abley,Genderqueer,True,3:59 PM,8:08 AM,Eldoret
+738,Apartment,445.38,1.2,Pool,Saunderson Sennett,Male,True,8:17 AM,10:49 PM,Kisumu
+739,Bungalow,155.85,4.2,Parking,Ethelyn Cabell,Genderqueer,True,1:01 PM,7:31 AM,Mombasa
+740,Villa,416.12,2.9,Wifi,Marlon Sutherden,Male,False,12:54 PM,4:54 PM,Nairobi
+741,House,108.82,2.3,Breakfast Included,Harley Brambill,Female,True,7:37 PM,3:56 PM,Eldoret
+742,Bungalow,298.24,2.9,Air Conditioning,Cirillo Burnhard,Male,False,1:47 AM,10:02 PM,Nakuru
+743,Bungalow,487.3,1.6,Breakfast Included,Boyd Lau,Male,True,4:16 AM,11:56 AM,Nairobi
+744,Villa,199.34,3.3,Pool,Elroy Knotton,Male,True,4:10 PM,3:46 PM,Mombasa
+745,Bungalow,73.07,1.6,Parking,Amye Littell,Agender,True,1:16 PM,1:10 AM,Kisumu
+746,Apartment,161.37,3.2,Pool,Hope McKenny,Female,False,4:12 PM,5:35 AM,Eldoret
+747,Apartment,440.93,2.6,Breakfast Included,Nert Dunnett,Non-binary,False,6:18 PM,8:55 PM,Nakuru
+748,House,279.66,3.0,Wifi,Margarette Spray,Bigender,False,6:35 PM,1:38 PM,Mombasa
+749,Bungalow,288.57,1.2,Pool,Dwayne Gallico,Male,False,4:29 PM,8:45 AM,Eldoret
+750,Apartment,190.85,4.0,Breakfast Included,Zacharias Ough,Male,True,12:08 PM,8:31 AM,Eldoret
+751,Villa,158.53,3.4,Pool,Edd Sichardt,Male,False,5:46 AM,6:49 AM,Nairobi
+752,Cottage,473.46,3.6,Wifi,Georg Gaynes,Male,True,2:16 PM,3:59 AM,Kisumu
+753,Cottage,484.54,2.4,Air Conditioning,Nickola Crimin,Male,True,10:44 PM,8:21 AM,Mombasa
+754,Cottage,167.98,3.4,Wifi,Lorry Steet,Male,True,9:43 AM,6:43 PM,Mombasa
+755,Bungalow,410.18,2.1,Pool,Christin Baird,Female,False,1:27 AM,9:56 AM,Nakuru
+756,Bungalow,112.97,1.4,Breakfast Included,Langsdon Ianson,Male,True,2:06 AM,2:56 AM,Eldoret
+757,Apartment,248.81,2.3,Air Conditioning,Ardenia Pesselt,Female,True,8:15 PM,2:51 PM,Mombasa
+758,House,114.69,2.2,Parking,Issiah Dignum,Male,True,9:26 AM,11:35 AM,Nakuru
+759,Apartment,240.15,2.4,Pool,Fowler Staddon,Male,True,9:20 PM,3:37 PM,Kisumu
+760,House,303.7,2.0,Parking,Edvard Tayt,Male,False,10:28 PM,6:02 PM,Kisumu
+761,Villa,79.87,4.5,Air Conditioning,Leonid Linde,Male,False,9:35 PM,8:42 PM,Kisumu
+762,Bungalow,198.79,1.4,Breakfast Included,Field MacNamee,Male,False,3:09 PM,2:50 AM,Eldoret
+763,Villa,408.24,2.0,Air Conditioning,Rollin Jeffcock,Male,False,4:04 PM,4:14 AM,Nakuru
+764,Apartment,56.02,4.0,Breakfast Included,Kathlin Wolffers,Female,False,4:15 AM,12:03 AM,Kisumu
+765,Cottage,232.58,2.5,Pool,Kariotta Basley,Female,False,9:40 PM,7:25 PM,Eldoret
+766,Bungalow,302.22,1.2,Pool,Domeniga Reide,Female,True,12:02 PM,4:16 AM,Nakuru
+767,Cottage,423.07,2.7,Pool,Scot Bister,Male,True,8:48 AM,3:18 AM,Eldoret
+768,Cottage,153.25,1.3,Parking,Briny Hadgkiss,Female,False,4:01 PM,9:36 PM,Nairobi
+769,Cottage,284.27,1.1,Pool,Patty Westmarland,Female,True,6:23 PM,7:54 PM,Nairobi
+770,Cottage,54.6,1.7,Wifi,Maryjo Haddy,Female,False,10:50 AM,3:38 AM,Mombasa
+771,House,415.38,3.7,Breakfast Included,Weidar Sefton,Male,True,6:44 AM,10:08 PM,Kisumu
+772,Villa,418.03,4.8,Wifi,Jacki Liver,Female,False,3:09 AM,5:59 AM,Nakuru
+773,Cottage,264.02,3.0,Parking,Adaline Dell,Female,True,11:37 AM,4:34 AM,Nairobi
+774,Cottage,342.39,3.0,Pool,Syd Gratton,Male,False,1:35 AM,2:43 PM,Nakuru
+775,Villa,220.89,2.0,Wifi,Jamey Crumb,Male,True,10:18 AM,2:58 PM,Mombasa
+776,Apartment,143.68,2.8,Air Conditioning,Gertrude Coneley,Female,False,4:31 AM,4:24 PM,Mombasa
+777,Bungalow,376.43,3.7,Pool,Silvan Belsher,Male,False,9:41 AM,12:44 AM,Nairobi
+778,Apartment,128.83,2.2,Parking,Milzie Sloyan,Female,True,11:16 AM,1:42 PM,Nairobi
+779,House,187.52,1.9,Wifi,Jessy Brugman,Female,True,11:41 AM,8:33 AM,Mombasa
+780,Villa,90.42,2.5,Parking,Brett Mulberry,Female,True,11:52 PM,8:34 AM,Kisumu
+781,House,154.22,4.1,Wifi,Goldie Squire,Female,False,4:55 PM,2:55 PM,Nakuru
+782,Cottage,265.55,2.9,Air Conditioning,Dareen Ewin,Female,False,7:53 PM,11:28 PM,Mombasa
+783,Cottage,119.89,2.2,Breakfast Included,Eduino Raisher,Male,False,11:10 PM,4:37 PM,Nairobi
+784,Villa,242.5,4.9,Pool,Nikolia Brumham,Female,False,5:29 AM,11:49 PM,Nairobi
+785,Apartment,55.72,4.8,Parking,Caesar Konmann,Male,False,1:58 AM,8:53 AM,Kisumu
+786,Bungalow,269.06,2.9,Parking,Brandise Brotheridge,Female,False,2:49 PM,7:56 PM,Mombasa
+787,Bungalow,445.92,2.7,Wifi,Jens Sywell,Non-binary,False,8:17 PM,3:33 PM,Nakuru
+788,Bungalow,441.37,2.8,Breakfast Included,Julio Cuddon,Male,False,3:05 PM,3:03 PM,Kisumu
+789,Villa,421.58,1.4,Parking,Chucho Willcott,Male,True,8:09 PM,6:14 AM,Nairobi
+790,House,350.58,2.9,Pool,Gerrie Paulig,Male,False,5:04 AM,5:23 AM,Nairobi
+791,House,306.45,3.7,Pool,Trudey Genty,Non-binary,False,2:24 AM,9:49 PM,Eldoret
+792,Apartment,232.5,4.1,Wifi,Cully Payley,Male,False,12:55 PM,4:01 AM,Eldoret
+793,Apartment,177.48,4.9,Air Conditioning,Francene Silber,Female,False,9:46 AM,10:27 PM,Eldoret
+794,Bungalow,94.16,3.7,Pool,Stacee Filppetti,Female,False,3:39 PM,12:31 PM,Mombasa
+795,Apartment,267.34,2.5,Pool,Tadio Quinion,Male,False,6:53 AM,12:42 AM,Nakuru
+796,Apartment,55.06,4.7,Breakfast Included,Geoff Gamage,Male,True,6:05 AM,1:20 AM,Mombasa
+797,Cottage,221.16,3.3,Air Conditioning,Jewel Tacon,Non-binary,False,2:46 PM,1:45 PM,Nakuru
+798,Apartment,210.98,2.4,Air Conditioning,Diarmid Haggett,Male,False,4:33 PM,4:48 AM,Mombasa
+799,Bungalow,210.05,1.2,Parking,Billy Leefe,Female,False,5:29 AM,5:44 PM,Nairobi
+800,Bungalow,428.66,2.5,Air Conditioning,Ines Algate,Female,True,6:08 PM,12:23 AM,Kisumu
+801,House,453.07,2.5,Pool,Becca Vidler,Female,True,7:37 AM,3:47 PM,Nairobi
+802,Apartment,146.46,2.8,Parking,Germaine Sieb,Male,True,2:39 AM,6:58 PM,Eldoret
+803,Bungalow,88.49,1.0,Wifi,Zena Slegg,Female,True,6:20 AM,11:35 PM,Kisumu
+804,Cottage,173.56,1.5,Air Conditioning,Faythe Paradin,Female,False,7:14 PM,7:52 AM,Nairobi
+805,House,220.16,2.1,Pool,Gregg Oganian,Male,False,7:59 PM,11:11 AM,Kisumu
+806,Apartment,275.54,3.0,Parking,Jillie Claypole,Female,False,1:03 AM,6:48 AM,Nakuru
+807,Villa,434.75,3.7,Pool,Alli Sedcole,Female,True,2:42 AM,1:27 AM,Kisumu
+808,House,266.55,3.9,Wifi,Grenville Moxstead,Male,True,1:27 PM,1:22 AM,Nakuru
+809,Apartment,194.99,1.0,Breakfast Included,Upton Cricket,Male,False,7:30 AM,7:12 PM,Nakuru
+810,Bungalow,448.05,3.3,Parking,Raynard Oldaker,Male,True,11:19 AM,2:20 AM,Mombasa
+811,Villa,133.46,4.7,Wifi,Delia Morrowe,Female,False,2:17 AM,6:27 PM,Eldoret
+812,Apartment,415.8,4.2,Pool,Rorke Schlagman,Male,False,4:53 PM,8:58 AM,Kisumu
+813,Villa,61.45,2.0,Breakfast Included,Lynne Mawford,Female,True,7:54 PM,9:02 PM,Kisumu
+814,Apartment,123.98,1.4,Breakfast Included,Ivette Cramer,Female,False,3:25 PM,9:26 AM,Eldoret
+815,Bungalow,317.05,2.5,Pool,Clifford Dinkin,Genderfluid,False,8:40 AM,11:48 PM,Mombasa
+816,House,400.5,1.3,Parking,Joachim Lautie,Male,False,3:51 AM,8:13 AM,Nakuru
+817,Cottage,207.41,4.9,Parking,Antoni Madgwick,Male,False,10:47 AM,7:39 AM,Nairobi
+818,Apartment,381.14,2.7,Air Conditioning,Jereme Desport,Male,True,12:44 AM,5:17 AM,Kisumu
+819,Villa,396.48,2.1,Pool,Devin Kilbride,Female,False,7:15 AM,1:11 AM,Nakuru
+820,House,52.1,2.9,Parking,Tab Shippard,Male,False,4:54 AM,9:42 PM,Kisumu
+821,House,376.19,4.4,Breakfast Included,Manolo Murrock,Male,True,7:39 PM,7:16 PM,Eldoret
+822,House,191.9,2.8,Air Conditioning,Robinet Spering,Female,False,3:03 AM,1:25 PM,Eldoret
+823,Apartment,233.67,4.7,Breakfast Included,Randolf Faughey,Male,True,2:17 PM,4:18 PM,Eldoret
+824,Villa,407.81,1.2,Breakfast Included,Vincents Speakman,Male,True,4:09 PM,8:12 AM,Nairobi
+825,Bungalow,59.63,2.0,Parking,Sari Cattemull,Female,True,12:45 AM,9:34 AM,Nairobi
+826,House,113.46,1.2,Wifi,Flory Insole,Male,True,3:28 AM,2:29 PM,Eldoret
+827,House,349.63,4.2,Breakfast Included,Hort Nurse,Male,False,9:05 AM,1:00 PM,Nairobi
+828,Bungalow,442.13,2.7,Wifi,Domingo Baude,Male,True,6:38 PM,9:25 AM,Nakuru
+829,Bungalow,63.98,3.5,Air Conditioning,Clayborne Chicchetto,Male,False,6:33 PM,1:26 AM,Eldoret
+830,Bungalow,424.0,1.8,Pool,Farris Doughill,Male,False,11:06 PM,8:12 PM,Eldoret
+831,House,210.08,1.3,Pool,Bryn Clewes,Female,True,7:55 PM,2:58 PM,Nairobi
+832,Bungalow,328.21,1.4,Air Conditioning,Kipp Pogg,Male,False,11:38 AM,8:40 AM,Nakuru
+833,Cottage,341.86,2.3,Air Conditioning,Weidar Zoephel,Male,False,11:42 PM,10:59 PM,Eldoret
+834,Cottage,185.6,2.5,Parking,Odelinda Rasch,Female,False,8:47 PM,9:10 AM,Nairobi
+835,Villa,156.59,3.5,Breakfast Included,Marthena McKeaveney,Female,False,10:09 AM,5:32 PM,Nakuru
+836,Cottage,477.26,3.9,Wifi,Hildy Dimmack,Female,True,8:01 PM,8:18 PM,Eldoret
+837,Apartment,392.92,2.7,Parking,Zedekiah Flatman,Male,False,3:19 AM,6:00 PM,Kisumu
+838,Apartment,269.84,1.3,Breakfast Included,Gordy Peaple,Male,False,12:39 AM,1:21 AM,Nakuru
+839,Apartment,292.16,3.9,Pool,Ward Ranger,Male,True,2:30 AM,7:26 PM,Nairobi
+840,Villa,186.37,3.6,Wifi,Haven Bendare,Male,False,7:14 PM,11:12 AM,Mombasa
+841,House,415.63,1.2,Parking,Lindsey McIlvaney,Female,True,3:26 AM,7:20 PM,Mombasa
+842,Bungalow,381.35,2.8,Air Conditioning,Curcio Coskerry,Male,False,10:26 PM,9:39 AM,Mombasa
+843,Apartment,334.75,3.7,Breakfast Included,Hermina Nassi,Female,False,5:50 AM,12:29 PM,Mombasa
+844,Cottage,173.19,1.1,Breakfast Included,Mahalia Saywood,Female,True,11:23 PM,9:27 AM,Nairobi
+845,House,122.19,1.4,Breakfast Included,Ker Gillean,Polygender,False,11:40 AM,9:19 AM,Nairobi
+846,House,493.15,2.1,Parking,Maegan Fullylove,Female,False,5:47 PM,7:18 AM,Mombasa
+847,Apartment,305.71,1.4,Breakfast Included,Parke Warbeys,Male,False,5:43 AM,12:24 PM,Eldoret
+848,Cottage,163.67,2.2,Air Conditioning,Avie Sinderson,Female,True,7:56 PM,4:04 PM,Nakuru
+849,Cottage,459.62,4.1,Air Conditioning,Emera Di Franceschi,Female,True,11:24 PM,11:14 AM,Mombasa
+850,Apartment,374.62,1.1,Breakfast Included,Benoite Tipler,Agender,False,2:35 PM,1:57 PM,Eldoret
+851,Cottage,146.16,2.8,Pool,Devland Ackers,Male,True,3:45 AM,9:18 PM,Mombasa
+852,Villa,323.97,2.3,Wifi,Jemmy Jendrys,Female,True,5:24 PM,5:30 AM,Nairobi
+853,Cottage,241.71,4.4,Parking,Drusie Gibbetts,Female,True,9:01 PM,1:43 AM,Nakuru
+854,Bungalow,240.8,4.0,Breakfast Included,Hayyim Doodney,Male,True,7:53 PM,7:03 PM,Nakuru
+855,Cottage,308.56,2.7,Wifi,Boote Skelhorne,Male,True,9:55 AM,9:56 AM,Eldoret
+856,House,141.43,3.5,Breakfast Included,Sharron Meeus,Female,False,2:47 PM,2:56 AM,Nakuru
+857,Cottage,382.37,3.1,Wifi,Pia McNickle,Female,True,6:45 PM,7:57 AM,Mombasa
+858,Cottage,89.18,3.3,Wifi,Armstrong Skoughman,Male,False,3:11 AM,3:22 PM,Kisumu
+859,Villa,51.05,3.9,Breakfast Included,Peder Searles,Male,False,7:10 AM,2:10 AM,Nairobi
+860,Apartment,310.78,3.2,Wifi,Egan Fewless,Male,False,8:38 PM,4:54 PM,Kisumu
+861,Bungalow,444.52,1.4,Parking,Lynda Nibley,Female,False,7:08 PM,5:07 AM,Nairobi
+862,House,448.92,3.3,Pool,Marylee Capnerhurst,Female,True,6:36 PM,2:52 PM,Mombasa
+863,House,191.59,3.0,Parking,Myer Kighly,Male,True,6:19 AM,2:08 AM,Mombasa
+864,Villa,182.5,1.4,Pool,Jo-ann Nisen,Female,True,3:54 PM,2:16 AM,Nairobi
+865,Bungalow,297.14,1.4,Breakfast Included,Elicia Rentalll,Female,False,3:52 PM,3:01 PM,Kisumu
+866,Villa,313.81,3.8,Breakfast Included,Andy Brittoner,Female,False,6:41 AM,7:54 AM,Nakuru
+867,Bungalow,498.01,2.1,Wifi,Mitchell Ramstead,Male,False,5:49 AM,8:43 PM,Eldoret
+868,Villa,372.09,2.5,Parking,Letizia Scotts,Female,False,6:11 AM,12:47 AM,Nairobi
+869,Apartment,210.26,3.7,Parking,Kane Slemmonds,Male,False,6:22 AM,1:46 PM,Kisumu
+870,Cottage,438.58,4.7,Breakfast Included,Ody Yepiskov,Male,True,11:29 PM,1:58 AM,Eldoret
+871,Villa,453.55,2.9,Breakfast Included,Jarrett Christauffour,Male,True,9:22 PM,9:59 AM,Nakuru
+872,Cottage,442.52,3.0,Parking,Dorette Jencey,Female,True,1:34 PM,3:17 AM,Nairobi
+873,Cottage,326.48,1.7,Breakfast Included,Yvon Stealey,Male,True,11:10 AM,5:57 PM,Mombasa
+874,Villa,383.62,1.8,Breakfast Included,Sylvester Pragnall,Male,False,5:30 PM,5:38 PM,Kisumu
+875,Apartment,128.07,2.4,Pool,Stephine Reace,Polygender,False,3:14 PM,1:25 AM,Mombasa
+876,Apartment,471.11,1.8,Pool,Brittni Swinnard,Bigender,True,7:59 AM,12:52 AM,Kisumu
+877,Apartment,254.78,2.1,Pool,Hedwiga Furmenger,Female,False,5:24 PM,11:58 PM,Nairobi
+878,Bungalow,413.76,2.0,Air Conditioning,Kyrstin Selwyne,Genderqueer,False,10:28 PM,6:23 PM,Mombasa
+879,Cottage,306.62,3.6,Air Conditioning,Lenci Boylan,Male,False,3:48 PM,10:47 PM,Nakuru
+880,Cottage,245.79,4.7,Wifi,Boris Cobleigh,Male,False,11:53 PM,6:47 PM,Eldoret
+881,Villa,317.85,3.2,Wifi,Benedetto Ivatt,Male,False,9:54 PM,6:15 AM,Eldoret
+882,Apartment,432.68,3.8,Wifi,Carolyn Ragbourn,Female,True,9:07 PM,6:14 PM,Nairobi
+883,House,486.42,1.9,Air Conditioning,Pip Gouldthorpe,Male,False,2:42 AM,8:26 PM,Kisumu
+884,House,84.72,2.7,Pool,Vale Beynke,Female,True,12:27 PM,12:15 AM,Eldoret
+885,Apartment,276.58,2.0,Air Conditioning,Malory Gyorffy,Polygender,False,6:05 PM,1:00 AM,Nakuru
+886,Cottage,292.7,3.0,Air Conditioning,Ransom Tregale,Male,False,7:10 AM,6:38 AM,Nairobi
+887,House,278.03,1.7,Pool,Tracy Pavier,Female,False,12:08 PM,12:20 PM,Kisumu
+888,Apartment,129.62,3.3,Parking,Auguste Kempson,Female,False,8:08 PM,9:49 AM,Nakuru
+889,House,308.77,2.0,Breakfast Included,Vikky Maud,Female,True,7:18 AM,6:08 PM,Eldoret
+890,Cottage,395.26,4.2,Wifi,Ki Cheston,Female,False,5:45 PM,10:05 PM,Kisumu
+891,Apartment,199.84,1.6,Wifi,Clemmie Curgenven,Male,True,5:24 PM,7:29 AM,Kisumu
+892,Cottage,145.76,4.4,Parking,Andrew Siveter,Male,True,8:13 AM,4:08 AM,Nairobi
+893,House,180.85,4.2,Breakfast Included,Franchot Pendrey,Male,True,6:50 PM,3:18 AM,Nairobi
+894,Cottage,282.68,4.0,Breakfast Included,Lee Goldup,Male,True,8:38 AM,3:43 AM,Nakuru
+895,Apartment,125.72,1.6,Parking,Reinaldos Frankum,Male,False,11:13 AM,5:03 PM,Eldoret
+896,Apartment,357.01,2.1,Wifi,Taite Cantos,Male,False,4:03 PM,10:06 PM,Nakuru
+897,Apartment,277.0,1.7,Pool,Bartolomeo Worham,Male,False,10:51 AM,1:16 AM,Mombasa
+898,Bungalow,187.13,4.2,Breakfast Included,Merrick Petrolli,Male,True,3:44 PM,9:29 PM,Nairobi
+899,Cottage,354.57,3.1,Breakfast Included,Garrot Skellen,Polygender,False,3:06 PM,8:07 PM,Mombasa
+900,Apartment,211.43,3.0,Pool,Abeu Jovey,Male,False,10:42 AM,1:49 AM,Eldoret
+901,Cottage,205.0,4.0,Air Conditioning,Kaspar Hyslop,Male,True,6:34 AM,11:05 AM,Kisumu
+902,Apartment,84.5,2.2,Wifi,Costa Gutridge,Male,False,7:08 PM,4:28 PM,Nakuru
+903,House,368.71,1.3,Parking,Herbie DeSousa,Male,False,5:29 PM,1:45 AM,Eldoret
+904,Bungalow,401.19,4.0,Parking,Erna Peagrim,Female,False,11:25 PM,10:20 PM,Eldoret
+905,House,78.1,1.8,Air Conditioning,Rochette Barsham,Female,False,2:16 PM,10:40 AM,Kisumu
+906,Cottage,335.18,1.6,Parking,Rosanna Bon,Female,False,1:50 PM,9:26 AM,Nairobi
+907,Cottage,408.98,2.2,Wifi,Kriste Zupa,Female,False,11:27 PM,1:23 PM,Kisumu
+908,Bungalow,399.84,3.9,Air Conditioning,Anissa Gheorghie,Female,False,6:48 PM,12:22 AM,Eldoret
+909,Villa,400.05,2.9,Breakfast Included,Uta Oakenford,Female,False,12:20 PM,2:29 PM,Nakuru
+910,House,93.37,1.5,Air Conditioning,Gerrie Le Lievre,Male,True,11:27 AM,4:27 PM,Eldoret
+911,House,67.54,4.3,Air Conditioning,Brian Glennard,Male,False,8:32 AM,10:22 AM,Nakuru
+912,Villa,273.49,3.8,Wifi,Zared Dunning,Male,False,7:41 PM,3:09 AM,Mombasa
+913,House,218.24,1.8,Pool,Marlon Vidgeon,Genderfluid,False,2:41 AM,7:47 PM,Nakuru
+914,House,278.33,2.7,Breakfast Included,Cullan Paffot,Male,True,10:56 PM,1:56 PM,Kisumu
+915,Bungalow,290.42,4.5,Breakfast Included,Lynette Sprigin,Female,True,6:59 AM,11:20 AM,Mombasa
+916,Cottage,407.07,4.9,Parking,Timothee Cull,Male,True,3:34 PM,6:12 AM,Nakuru
+917,Cottage,139.56,4.6,Breakfast Included,Rab Baudet,Polygender,True,8:40 AM,7:12 AM,Mombasa
+918,Apartment,245.7,1.6,Wifi,Dion Egginson,Male,True,9:36 PM,8:52 AM,Mombasa
+919,Villa,496.36,3.2,Parking,Tabor Mannix,Agender,True,7:13 PM,3:48 PM,Mombasa
+920,House,367.18,4.7,Air Conditioning,Giuseppe Muscroft,Male,True,7:06 PM,12:42 AM,Nakuru
+921,House,385.73,1.4,Parking,Puff MacDirmid,Male,False,4:42 PM,10:08 PM,Nakuru
+922,Bungalow,393.25,1.7,Air Conditioning,Norrie Paute,Female,False,12:28 AM,6:38 AM,Eldoret
+923,Villa,152.68,1.3,Wifi,Norri Ganforthe,Female,True,11:11 PM,8:02 AM,Kisumu
+924,Villa,132.09,1.7,Wifi,Odetta Kilmartin,Female,True,9:42 AM,8:42 PM,Mombasa
+925,Apartment,343.15,2.0,Wifi,Gram Partrick,Male,False,5:37 AM,5:29 PM,Nairobi
+926,Villa,137.33,4.7,Air Conditioning,Murvyn Gillino,Male,False,7:47 AM,1:33 PM,Kisumu
+927,Apartment,60.41,2.8,Air Conditioning,Erica Rawdales,Female,False,5:39 PM,6:16 AM,Nakuru
+928,Apartment,216.63,1.4,Pool,Beitris Dalglish,Female,True,4:30 AM,11:39 AM,Mombasa
+929,Bungalow,119.17,2.8,Wifi,Marshal Halloway,Male,False,10:48 PM,11:03 AM,Eldoret
+930,House,185.21,3.3,Air Conditioning,Jeniece Limpkin,Female,False,9:35 AM,9:07 PM,Eldoret
+931,Cottage,180.04,1.7,Wifi,Bree Ivanchenkov,Genderfluid,False,11:57 PM,8:19 AM,Mombasa
+932,House,370.73,3.7,Parking,Cris Mate,Male,True,2:24 AM,8:11 PM,Nairobi
+933,Apartment,103.29,2.0,Wifi,Perice Bizzey,Male,True,5:49 AM,3:03 AM,Kisumu
+934,Bungalow,196.25,3.1,Air Conditioning,Calhoun Finicj,Male,False,10:22 AM,11:24 AM,Nairobi
+935,Bungalow,309.76,4.2,Pool,Eldredge Baudone,Male,False,3:45 PM,5:43 AM,Kisumu
+936,Cottage,243.32,4.6,Pool,Armando Spellesy,Male,True,8:36 PM,4:45 AM,Nairobi
+937,Villa,230.05,1.9,Wifi,Davie Carvilla,Male,True,1:15 PM,11:23 PM,Eldoret
+938,Cottage,370.62,1.4,Breakfast Included,Tessi Blacksland,Female,True,8:34 AM,6:37 PM,Eldoret
+939,Cottage,313.42,4.0,Wifi,Evyn Heningam,Male,True,9:05 AM,8:13 AM,Nairobi
+940,Villa,76.86,2.8,Parking,Zoe Burgot,Genderqueer,False,9:22 PM,5:36 PM,Nakuru
+941,Cottage,111.41,2.0,Parking,Phedra Morrilly,Non-binary,True,10:33 AM,4:42 PM,Nakuru
+942,Apartment,477.51,1.4,Air Conditioning,Salim Ferrarello,Male,True,8:16 PM,2:42 PM,Eldoret
+943,Bungalow,65.81,1.4,Parking,Kathie Stoddart,Female,False,7:24 AM,9:33 AM,Kisumu
+944,Apartment,155.88,2.7,Wifi,Florrie Bircher,Genderfluid,True,10:39 AM,8:59 AM,Kisumu
+945,Apartment,385.42,1.3,Pool,Rees Hunston,Male,True,8:18 PM,6:23 AM,Nakuru
+946,Bungalow,451.79,2.0,Wifi,Lana Sibly,Female,False,2:16 PM,1:33 AM,Mombasa
+947,House,382.93,2.7,Parking,Ilene Corbin,Female,False,2:31 AM,4:26 PM,Nakuru
+948,Apartment,335.75,4.6,Wifi,Kelbee Smeed,Male,True,3:09 AM,3:50 AM,Nairobi
+949,Villa,350.33,4.9,Pool,Haven Tupper,Male,False,12:57 PM,7:14 PM,Mombasa
+950,Cottage,491.39,1.6,Parking,Alanson Sygrove,Male,True,1:50 AM,12:14 AM,Eldoret
+951,Villa,334.94,4.7,Pool,Henka Zoppo,Female,False,5:28 AM,3:39 PM,Nakuru
+952,Villa,118.41,3.1,Breakfast Included,Lisetta Rosiello,Female,True,7:01 PM,6:05 AM,Eldoret
+953,Apartment,473.54,2.3,Breakfast Included,Turner Revens,Male,True,6:50 PM,5:34 AM,Eldoret
+954,Villa,418.81,4.8,Parking,Barbette Mandal,Female,True,7:46 AM,3:58 PM,Eldoret
+955,House,63.2,4.9,Air Conditioning,West Pottes,Male,True,4:58 AM,1:45 PM,Nakuru
+956,Bungalow,131.05,3.3,Parking,Annaliese Coole,Female,False,2:13 AM,11:19 PM,Mombasa
+957,House,97.9,3.9,Parking,Lambert Lorait,Male,True,7:24 PM,10:56 AM,Eldoret
+958,Cottage,169.01,4.9,Parking,Feliza Defrain,Female,True,12:51 AM,10:28 AM,Nakuru
+959,Cottage,255.7,3.6,Pool,Caril Brandino,Female,True,8:30 PM,7:43 PM,Kisumu
+960,Cottage,230.23,3.5,Air Conditioning,Ky Callway,Male,False,8:35 PM,8:01 AM,Eldoret
+961,Bungalow,51.69,4.9,Breakfast Included,Sammy Alyukin,Female,False,3:17 AM,1:29 AM,Nairobi
+962,Cottage,125.15,4.9,Air Conditioning,Marje MacCome,Female,True,11:11 AM,9:52 AM,Mombasa
+963,Bungalow,491.84,2.6,Breakfast Included,Wally Bromehead,Female,True,5:27 AM,3:48 AM,Nairobi
+964,Apartment,439.77,2.6,Parking,Calhoun Hanssmann,Male,False,7:42 PM,11:37 PM,Mombasa
+965,Apartment,83.82,3.8,Wifi,Cecilia Golden of Ireland,Female,False,7:14 PM,2:46 PM,Mombasa
+966,Bungalow,476.22,1.7,Breakfast Included,Lilyan Simyson,Non-binary,False,1:48 PM,8:42 PM,Nakuru
+967,House,274.09,4.7,Parking,Harriott Bodesson,Female,True,9:32 AM,7:24 PM,Eldoret
+968,Apartment,201.88,2.6,Breakfast Included,Arlie Basnall,Female,True,10:24 AM,1:56 PM,Mombasa
+969,Villa,108.09,2.3,Breakfast Included,Ethe Bulstrode,Male,False,10:29 AM,6:15 AM,Mombasa
+970,Villa,63.69,2.3,Breakfast Included,Martie Ruslin,Female,True,7:57 AM,1:52 PM,Mombasa
+971,House,237.93,4.8,Breakfast Included,Steffen Trout,Male,False,4:45 PM,8:34 PM,Eldoret
+972,Apartment,347.73,4.5,Breakfast Included,Elmira Hawksley,Female,False,7:30 AM,2:52 PM,Nairobi
+973,Apartment,354.75,2.3,Parking,Bonnibelle Santos,Female,False,2:40 PM,11:51 PM,Nakuru
+974,Bungalow,410.22,4.0,Pool,Saw Cranke,Male,False,9:04 AM,11:11 AM,Kisumu
+975,Villa,414.49,1.6,Air Conditioning,Evelin Norrington,Male,False,8:34 AM,8:29 PM,Kisumu
+976,House,435.97,3.5,Parking,Pauli Bloor,Female,True,8:08 AM,1:34 AM,Eldoret
+977,Cottage,96.53,3.9,Pool,Idette Allmen,Female,True,7:22 PM,3:25 AM,Kisumu
+978,Cottage,459.38,3.0,Parking,Regine Gregs,Female,False,7:33 AM,2:09 AM,Nairobi
+979,House,235.61,2.2,Parking,Camellia Morrell,Female,False,9:49 PM,7:57 PM,Mombasa
+980,Villa,104.76,1.9,Air Conditioning,Powell Mayhou,Polygender,False,2:13 AM,3:23 PM,Nairobi
+981,House,240.23,1.9,Wifi,Dianna Enrietto,Female,True,10:44 PM,5:01 AM,Nairobi
+982,Villa,453.53,3.4,Wifi,Casi Penhearow,Female,True,9:37 AM,8:28 AM,Mombasa
+983,Cottage,106.1,3.1,Breakfast Included,Bucky Tidbold,Male,True,12:05 PM,7:58 PM,Eldoret
+984,Bungalow,319.37,1.3,Wifi,Wright Gregine,Male,True,6:12 AM,6:41 PM,Nakuru
+985,Bungalow,153.53,3.1,Wifi,Bourke Goshawk,Male,False,7:19 AM,2:08 AM,Mombasa
+986,House,223.58,4.1,Air Conditioning,Maia Pellamonuten,Female,False,2:41 AM,3:02 PM,Nakuru
+987,Apartment,432.17,3.6,Pool,Enrica Penny,Female,True,11:47 PM,12:52 PM,Eldoret
+988,Apartment,333.92,4.1,Parking,Elinore MacClure,Female,False,10:10 PM,2:44 AM,Nairobi
+989,Apartment,382.56,2.1,Air Conditioning,Parsifal Andreas,Male,True,10:57 PM,8:58 PM,Kisumu
+990,Bungalow,299.86,2.3,Breakfast Included,Lawry Odgers,Male,True,7:43 PM,1:27 PM,Mombasa
+991,Apartment,229.28,4.1,Wifi,Marleen Yarn,Female,True,2:30 AM,7:59 AM,Mombasa
+992,Bungalow,246.46,1.2,Air Conditioning,Norton Seeney,Male,True,10:09 AM,6:38 AM,Eldoret
+993,Villa,348.14,1.9,Air Conditioning,Godfree Hayer,Male,True,3:23 PM,7:29 AM,Kisumu
+994,Cottage,194.15,3.0,Wifi,Obie Foch,Male,False,1:02 PM,10:50 PM,Kisumu
+995,House,294.75,2.2,Air Conditioning,Benoite Lowrance,Female,False,1:14 AM,8:20 PM,Eldoret
+996,Bungalow,104.04,2.6,Wifi,Sheridan Morbey,Male,True,5:25 PM,4:40 PM,Nairobi
+997,Villa,107.46,4.1,Wifi,Clarance Chasteau,Male,True,2:48 PM,2:45 PM,Eldoret
+998,Cottage,375.51,1.7,Wifi,Berti Eddins,Female,False,11:07 AM,4:33 PM,Nakuru
+999,Apartment,185.01,3.2,Wifi,Alwyn Pedycan,Male,False,7:15 AM,3:15 AM,Mombasa
